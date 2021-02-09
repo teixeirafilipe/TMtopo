@@ -1,0 +1,216 @@
+--- NEW ENTRY ---
+F001::Formula:: 0 :: Zn O
+F002::Number of Atoms:: 0 :: 2
+F003::Metal:: 0 :: Zn
+F004::Metal Oxidation State:: 0 :: 2
+F005::Formal Occupation of d orbitals:: 0 :: 10
+F006::Spin Multiplicity:: 0 :: 1
+F007::Coordination Number:: 0 :: 1
+F008::Compute Method:: 0 :: TPSSH
+F009::Basis Set/Force Field:: 0 :: TZVP
+F010::Equilibrium Geometry Name:: 0 :: linear
+F011::Equilibrium Geometry:: 2
+   1   Zn  +0.000000  +0.000000  -0.049891
+   2    O  +0.000000  +0.000000  +1.649891
+F012::Total Charge ::0 ::  0.00
+F013::E(HOMO) ::0 ::      -2.30100000e-01
+F014::E(LUMO) ::0 ::      -1.66440000e-01
+F015::HOMO-LUMO Gap (eV) ::0 ::             1.732252
+F016::Electronic Contrib. to Dipole Moment ::1 
+   -0.000000e+00    -0.000000e+00    -3.895880e+00 
+F017::Nuclear Contrib. to Dipole Moment ::1 
+    0.000000e+00     0.000000e+00     1.700020e+00 
+F018::Total Dipole Moment ::1 
+   -0.000000e+00    -0.000000e+00    -2.195860e+00 
+F019::Dipole Moment Magnitude (Debye)::0 ::         5.581420e+00
+F020::Molecular Weight ::0 ::    81.374916
+F030::Electronic Contrib. to Quadrupole Tensor ::1 
+ -1.419048e+01  -1.419048e+01  -8.098916e+01  -0.000000e+00  -0.000000e+00  -0.000000e+00 
+F031::Nuclear Contrib. to Quadrupole Tensor ::1 
+  0.000000e+00   0.000000e+00   6.524061e+01   0.000000e+00   0.000000e+00   0.000000e+00 
+F032::Quadrupole Tensor ::1 
+ -1.419048e+01  -1.419048e+01  -1.574854e+01  -0.000000e+00  -0.000000e+00  -0.000000e+00 
+F033::Diagonalized Quadrupole Tensor ::1 
+ -1.574854e+01  -1.419048e+01  -1.419048e+01 
+F034::Isotropic Quadrupole ::0::        -1.470984e+01 
+F035::Isotropic Polarizability ::0::         3.581626e+01 
+F036::Polarizability Tensor ::1 
+  3.069030e+01   3.069030e+01   4.606817e+01  -0.000000e+00  -9.000000e-05   8.000000e-05 
+F037::Diagonalized Polarizability Tensor ::1 
+  3.069030e+01   3.069030e+01   4.606817e+01 
+F050::IR Spectrum:: 1
+   1  754.6   12.45
+F051::Thermochemistry - Electronic Energy:: 0:: -1854.53240125
+F052::Thermochemistry - Internal Energy (U):: 13
+    0.00       -1854.53068207
+   50.00       -1854.53028623
+  100.00       -1854.52989031
+  150.00       -1854.52949206
+  200.00       -1854.52908352
+  250.00       -1854.52865755
+  273.15       -1854.52845373
+  298.15       -1854.52822907
+  300.00       -1854.52821227
+  350.00       -1854.52774927
+  400.00       -1854.52727132
+  450.00       -1854.52678115
+  500.00       -1854.52628111
+F053::Thermochemistry - Enthalpy (H):: 13
+    0.00       -1854.53068207
+   50.00       -1854.53012788
+  100.00       -1854.52957362
+  150.00       -1854.52901702
+  200.00       -1854.52845014
+  250.00       -1854.52786582
+  273.15       -1854.52758870
+  298.15       -1854.52728486
+  300.00       -1854.52726220
+  350.00       -1854.52664086
+  400.00       -1854.52600456
+  450.00       -1854.52535604
+  500.00       -1854.52469767
+F054::Thermochemistry - Gibbs Energy (G):: 13
+    0.00       -1854.53068201
+   50.00       -1854.53327230
+  100.00       -1854.53663083
+  150.00       -1854.54027968
+  200.00       -1854.54411896
+  250.00       -1854.54810339
+  273.15       -1854.54998982
+  298.15       -1854.55205354
+  300.00       -1854.55220730
+  350.00       -1854.55641370
+  400.00       -1854.56071022
+  450.00       -1854.56508724
+  500.00       -1854.56953702
+F100::AIM Atomic Charges - Q(A):: 2
+    1  +0.841
+    2  -0.841
+F101::AIM Atomic Hamilt. Kinetic Energy  - K(A):: 2
+    1    +1.7766904923e+03
+    2    +7.5019918016e+01
+F102::AIM Approximation to Virial-Based Total Energy of Atom - Ks(A):: 2
+    1    -1.7793981686e+03
+    2    -7.5134248371e+01
+F103::AIM Attraction between Atom's Nucleus and E. Density - Vne(A,A):: 2
+    1    +1.7766904923e+03
+    2    +7.5019918016e+01
+F104::AIM Half of Repulsion Energy Between Nucleus of Atom A and Other Nuclei - Vnn(A,Mol)/2:: 2
+    1    +3.7358491870e+01
+    2    +3.7358491870e+01
+F105::Half of Attraction Energy Between Nucleus of Atom A and Electron Density Distribution of Molecule - Vne(A,Mol)/2 :: 2
+    1    -2.1659315162e+03
+    2    -1.2699431254e+02
+F106::Half of Attraction Energy Between Electron Density Distribution of Atom A and Nuclei of Molecule - Ven(A,Mol)/2:: 2
+    1    -2.1612080574e+03
+    2    -1.3171779778e+02
+F107::AIM Vne(A,Mol)/2 + Ven(A,Mol)/2 = Vneen(A):: 2
+    1    -8.6542791472e+03
+    2    -5.1742422064e+02
+F108::AIM Half of Attraction Energy Between Nucleus of Atom A and Electron Density Distribution of Other Atoms - Vne(A,B)/2 :: 2
+    1    -4.0722317663e+01
+    2    -3.5998853099e+01
+F109::AIM Half of Attraction Energy Between Electron Density Distribution of Atom A and Nuclei of Other Atoms - Ven(A,B)/2:: 2
+    1    -4.0722317663e+01
+    2    -3.5998853099e+01
+F110::Vne(A,B)/2 + Ven(A,B)/2 =  Vneen(A,B)/2:: 2
+    1    -7.6721176510e+01
+    2    -7.6721191435e+01
+F150::BCP Coordinates :: 1
+    1 Zn01  O02    -8.175710e-09    -7.457051e-10    +8.156432e-01
+F151::Inter-nuclear distances:: 1
+    1 Zn01  O02    +1.699790e+00
+F152::Bond path length (BPL):: 1
+    1 Zn01  O02    +1.699789e+00
+F153::Electron Density at BCP:: 1
+    1 Zn01  O02    +1.552643e-01
+F154::Laplacian of the Electron Density at BCP:: 1
+    1 Zn01  O02    +7.554200e-01
+F155::Bond Ellipticity:: 1
+    1 Zn01  O02    +6.412445e-07
+F156::Vbcp:: 1
+    1 Zn01  O02    -3.181845e-01
+F157::Gbcp:: 1
+    1 Zn01  O02    +2.535198e-01
+F158::Kbcp:: 1
+    1 Zn01  O02    +6.466477e-02
+F159::Hbcp:: 1
+    1 Zn01  O02    -6.466477e-02
+F161::Vnuc at BCP:: 1
+    1 Zn01  O02    +2.341625e+01
+F162::Ven at BCP:: 1
+    1 Zn01  O02    -3.635708e+00
+F163::Vrep at BCP:: 1
+    1 Zn01  O02    +3.317524e+00
+F164::Delocalization Index (gamma):: 1
+    1 Zn01  O02    +1.754536e+00
+F200::Laplacian Minima Location:: 15
+    1   Zn01    +0.0000    +0.0000    -0.0499
+    2   Zn01    +0.0477    +0.0477    -0.0719
+    3   Zn01    -0.0000    +0.1522    -0.2703
+    4   Zn01    +0.0000    -0.1522    -0.2703
+    5   Zn01    +0.1522    -0.0000    -0.2703
+    6   Zn01    -0.1522    +0.0000    -0.2703
+    7   Zn01    +0.1342    +0.1342    +0.1374
+    8   Zn01    -0.1342    +0.1342    +0.1374
+    9   Zn01    +0.1342    -0.1342    +0.1374
+   10   Zn01    -0.1342    -0.1342    +0.1374
+   11    O02    +0.0000    +0.0000    +1.6499
+   12    O02    +0.0000    +0.3349    +1.6774
+   13    O02    -0.0000    -0.3349    +1.6774
+   14    O02    +0.3349    +0.0000    +1.6774
+   15    O02    -0.3349    +0.0000    +1.6774
+F201::Laplacian Minima Rho:: 15
+    1   Zn01     1.795185e+04
+    2   Zn01     1.749131e+02
+    3   Zn01     7.384599e+00
+    4   Zn01     7.384599e+00
+    5   Zn01     7.384599e+00
+    6   Zn01     7.384599e+00
+    7   Zn01     7.554246e+00
+    8   Zn01     7.554246e+00
+    9   Zn01     7.554246e+00
+   10   Zn01     7.554246e+00
+   11    O02     3.026867e+02
+   12    O02     9.194411e-01
+   13    O02     9.194410e-01
+   14    O02     9.194409e-01
+   15    O02     9.194409e-01
+F202::Laplacian Minima DelSqRho:: 15
+    1   Zn01    -3.901354e+09
+    2   Zn01    -1.491191e+04
+    3   Zn01    -9.236163e+01
+    4   Zn01    -9.236163e+01
+    5   Zn01    -9.236163e+01
+    6   Zn01    -9.236163e+01
+    7   Zn01    -9.845754e+01
+    8   Zn01    -9.845754e+01
+    9   Zn01    -9.845754e+01
+   10   Zn01    -9.845754e+01
+   11    O02    -4.524797e+06
+   12    O02    -5.013695e+00
+   13    O02    -5.013690e+00
+   14    O02    -5.013687e+00
+   15    O02    -5.013687e+00
+F203::Laplacian Minima Distance to Parent Nucleus:: 15
+    1   Zn01   0.0000
+    2   Zn01   0.0710
+    3   Zn01   0.2679
+    4   Zn01   0.2679
+    5   Zn01   0.2679
+    6   Zn01   0.2679
+    7   Zn01   0.2666
+    8   Zn01   0.2666
+    9   Zn01   0.2666
+   10   Zn01   0.2666
+   11    O02   0.0000
+   12    O02   0.3360
+   13    O02   0.3360
+   14    O02   0.3360
+   15    O02   0.3360
+F250::Radius of the iVS sphere :: 0 :: 0.2579079079079079
+F251::Number of iVSCCs :: 0 :: 8
+F252::Geometrical arrangement of iVSCCs :: 0 :: Antiprism_Square
+F253::Gillespiean Index 1 (G1) :: 0 :: 0.00000
+F254::Gillespiean Index 2 (G2) :: 0 :: 0.00000
+--- END ENTRY ---

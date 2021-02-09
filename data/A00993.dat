@@ -1,0 +1,216 @@
+--- NEW ENTRY ---
+F001::Formula:: 0 :: Ti O
+F002::Number of Atoms:: 0 :: 2
+F003::Metal:: 0 :: Ti
+F004::Metal Oxidation State:: 0 :: 2
+F005::Formal Occupation of d orbitals:: 0 :: 2
+F006::Spin Multiplicity:: 0 :: 3
+F007::Coordination Number:: 0 :: 1
+F008::Compute Method:: 0 :: TPSSH
+F009::Basis Set/Force Field:: 0 :: TZVP
+F010::Equilibrium Geometry Name:: 0 :: linear
+F011::Equilibrium Geometry:: 2
+   1   Ti  +0.000000  +0.000000  -0.006972
+   2    O  +0.000000  +0.000000  +1.606972
+F012::Total Charge ::0 ::  0.00
+F013::E(HOMO) ::0 ::      -1.67755000e-01
+F014::E(LUMO) ::0 ::      -8.38620000e-02
+F015::HOMO-LUMO Gap (eV) ::0 ::             2.282812
+F016::Electronic Contrib. to Dipole Moment ::1 
+   -0.000000e+00    -0.000000e+00    -2.973740e+00 
+F017::Nuclear Contrib. to Dipole Moment ::1 
+    0.000000e+00     0.000000e+00     1.490230e+00 
+F018::Total Dipole Moment ::1 
+   -0.000000e+00    -0.000000e+00    -1.483510e+00 
+F019::Dipole Moment Magnitude (Debye)::0 ::         3.770780e+00
+F020::Molecular Weight ::0 ::    63.861916
+F030::Electronic Contrib. to Quadrupole Tensor ::1 
+ -1.648902e+01  -1.648898e+01  -7.334585e+01  -0.000000e+00   0.000000e+00   0.000000e+00 
+F031::Nuclear Contrib. to Quadrupole Tensor ::1 
+  0.000000e+00   0.000000e+00   5.464558e+01   0.000000e+00   0.000000e+00   0.000000e+00 
+F032::Quadrupole Tensor ::1 
+ -1.648902e+01  -1.648898e+01  -1.870028e+01  -0.000000e+00   0.000000e+00   0.000000e+00 
+F033::Diagonalized Quadrupole Tensor ::1 
+ -1.870028e+01  -1.648902e+01  -1.648898e+01 
+F034::Isotropic Quadrupole ::0::        -1.722609e+01 
+F035::Isotropic Polarizability ::0::         6.744653e+01 
+F036::Polarizability Tensor ::1 
+  6.968050e+01   6.968040e+01   6.297869e+01  -3.600000e-04   1.000000e-05  -0.000000e+00 
+F037::Diagonalized Polarizability Tensor ::1 
+  6.297869e+01   6.968008e+01   6.968081e+01 
+F050::IR Spectrum:: 1
+   1 1047.0  174.82
+F051::Thermochemistry - Electronic Energy:: 0:: -924.72020014
+F052::Thermochemistry - Internal Energy (U):: 13
+    0.00        -924.71781481
+   50.00        -924.71741897
+  100.00        -924.71702312
+  150.00        -924.71662707
+  200.00        -924.71622887
+  250.00        -924.71582402
+  273.15        -924.71563301
+  298.15        -924.71542367
+  300.00        -924.71540805
+  350.00        -924.71497852
+  400.00        -924.71453500
+  450.00        -924.71407828
+  500.00        -924.71360971
+F053::Thermochemistry - Enthalpy (H):: 13
+    0.00        -924.71781481
+   50.00        -924.71726063
+  100.00        -924.71670643
+  150.00        -924.71615203
+  200.00        -924.71559549
+  250.00        -924.71503230
+  273.15        -924.71476797
+  298.15        -924.71447947
+  300.00        -924.71445798
+  350.00        -924.71387011
+  400.00        -924.71326824
+  450.00        -924.71265318
+  500.00        -924.71202627
+F054::Thermochemistry - Gibbs Energy (G):: 13
+    0.00        -924.71781476
+   50.00        -924.72049420
+  100.00        -924.72394185
+  150.00        -924.72767951
+  200.00        -924.73160578
+  250.00        -924.73567334
+  273.15        -924.73759656
+  298.15        -924.73969873
+  300.00        -924.73985528
+  350.00        -924.74413444
+  400.00        -924.74849883
+  450.00        -924.75293945
+  500.00        -924.75744920
+F100::AIM Atomic Charges - Q(A):: 2
+    1  +0.928
+    2  -0.928
+F101::AIM Atomic Hamilt. Kinetic Energy  - K(A):: 2
+    1    +8.4783365616e+02
+    2    +7.5287201715e+01
+F102::AIM Approximation to Virial-Based Total Energy of Atom - Ks(A):: 2
+    1    -8.4930259580e+02
+    2    -7.5417642815e+01
+F103::AIM Attraction between Atom's Nucleus and E. Density - Vne(A,A):: 2
+    1    +8.4783365616e+02
+    2    +7.5287201715e+01
+F104::AIM Half of Repulsion Energy Between Nucleus of Atom A and Other Nuclei - Vnn(A,Mol)/2:: 2
+    1    +2.8853282896e+01
+    2    +2.8853282896e+01
+F105::Half of Attraction Energy Between Nucleus of Atom A and Electron Density Distribution of Molecule - Vne(A,Mol)/2 :: 2
+    1    -1.0347624404e+03
+    2    -1.1847418192e+02
+F106::Half of Attraction Energy Between Electron Density Distribution of Atom A and Nuclei of Molecule - Ven(A,Mol)/2:: 2
+    1    -1.0299567164e+03
+    2    -1.2328008278e+02
+F107::AIM Vne(A,Mol)/2 + Ven(A,Mol)/2 = Vneen(A):: 2
+    1    -4.1294383136e+03
+    2    -4.8350852940e+02
+F108::AIM Half of Attraction Energy Between Nucleus of Atom A and Electron Density Distribution of Other Atoms - Vne(A,B)/2 :: 2
+    1    -3.1781120397e+01
+    2    -2.6975344318e+01
+F109::AIM Half of Attraction Energy Between Electron Density Distribution of Atom A and Nuclei of Other Atoms - Ven(A,B)/2:: 2
+    1    -3.1781120397e+01
+    2    -2.6975344318e+01
+F110::Vne(A,B)/2 + Ven(A,B)/2 =  Vneen(A,B)/2:: 2
+    1    -5.8756516760e+01
+    2    -5.8756589500e+01
+F150::BCP Coordinates :: 1
+    1 Ti01  O02    +1.433039e-09    +5.248126e-10    +8.331864e-01
+F151::Inter-nuclear distances:: 1
+    1 Ti01  O02    +1.613953e+00
+F152::Bond path length (BPL):: 1
+    1 Ti01  O02    +1.613952e+00
+F153::Electron Density at BCP:: 1
+    1 Ti01  O02    +2.648580e-01
+F154::Laplacian of the Electron Density at BCP:: 1
+    1 Ti01  O02    +9.601467e-01
+F155::Bond Ellipticity:: 1
+    1 Ti01  O02    +8.915643e-07
+F156::Vbcp:: 1
+    1 Ti01  O02    -5.563775e-01
+F157::Gbcp:: 1
+    1 Ti01  O02    +3.982071e-01
+F158::Kbcp:: 1
+    1 Ti01  O02    +1.581704e-01
+F159::Hbcp:: 1
+    1 Ti01  O02    -1.581704e-01
+F161::Vnuc at BCP:: 1
+    1 Ti01  O02    +1.932787e+01
+F162::Ven at BCP:: 1
+    1 Ti01  O02    -5.119143e+00
+F163::Vrep at BCP:: 1
+    1 Ti01  O02    +4.562765e+00
+F164::Delocalization Index (gamma):: 1
+    1 Ti01  O02    +2.145980e+00
+F200::Laplacian Minima Location:: 15
+    1   Ti01    -0.0000    -0.0000    -0.0070
+    2   Ti01    +0.0000    +0.0000    +0.0930
+    3   Ti01    +0.0626    +0.0780    -0.0126
+    4   Ti01    -0.0780    +0.0626    -0.0126
+    5   Ti01    +0.0780    -0.0626    -0.0126
+    6   Ti01    -0.0626    -0.0780    -0.0126
+    7   Ti01    +0.0000    +0.0000    +0.4039
+    8   Ti01    -0.0000    -0.0000    -0.4094
+    9   Ti01    +0.2495    +0.3109    +0.0086
+   10   Ti01    -0.3109    +0.2495    +0.0086
+   11   Ti01    +0.3109    -0.2495    +0.0086
+   12   Ti01    -0.2495    -0.3109    +0.0086
+   13    O02    -0.0000    -0.0000    +1.6070
+   14    O02    -0.0000    +0.0000    +1.9463
+   15    O02    +0.0000    +0.0000    +1.2604
+F201::Laplacian Minima Rho:: 15
+    1   Ti01     6.936946e+03
+    2   Ti01     5.927587e+01
+    3   Ti01     5.870499e+01
+    4   Ti01     5.870499e+01
+    5   Ti01     5.870499e+01
+    6   Ti01     5.870499e+01
+    7   Ti01     1.245561e+00
+    8   Ti01     1.496381e+00
+    9   Ti01     1.540006e+00
+   10   Ti01     1.540006e+00
+   11   Ti01     1.540006e+00
+   12   Ti01     1.540006e+00
+   13    O02     3.026176e+02
+   14    O02     8.757666e-01
+   15    O02     8.759267e-01
+F202::Laplacian Minima DelSqRho:: 15
+    1   Ti01    -7.979109e+08
+    2   Ti01    -2.742143e+03
+    3   Ti01    -2.649998e+03
+    4   Ti01    -2.649998e+03
+    5   Ti01    -2.649998e+03
+    6   Ti01    -2.649998e+03
+    7   Ti01    -8.401923e+00
+    8   Ti01    -1.314065e+01
+    9   Ti01    -1.539895e+01
+   10   Ti01    -1.539895e+01
+   11   Ti01    -1.539895e+01
+   12   Ti01    -1.539895e+01
+   13    O02    -4.523691e+06
+   14    O02    -4.324508e+00
+   15    O02    -3.958951e+00
+F203::Laplacian Minima Distance to Parent Nucleus:: 15
+    1   Ti01   0.0000
+    2   Ti01   0.0999
+    3   Ti01   0.1002
+    4   Ti01   0.1002
+    5   Ti01   0.1002
+    6   Ti01   0.1002
+    7   Ti01   0.4109
+    8   Ti01   0.4025
+    9   Ti01   0.3990
+   10   Ti01   0.3990
+   11   Ti01   0.3990
+   12   Ti01   0.3990
+   13    O02   0.0000
+   14    O02   0.3393
+   15    O02   0.3466
+F250::Radius of the iVS sphere :: 0 :: 0.401051051051051
+F251::Number of iVSCCs :: 0 :: 6
+F252::Geometrical arrangement of iVSCCs :: 0 :: Octahedron_Regular
+F253::Gillespiean Index 1 (G1) :: 0 :: 0.16667
+F254::Gillespiean Index 2 (G2) :: 0 :: 1.00000
+--- END ENTRY ---

@@ -1,0 +1,33 @@
+set terminal pngcairo enhanced color font "Arial,10" size 640,640
+set output 'geometry_by_metal.png'
+
+set style line  1 lt 1 lw 4 lc rgb "#004586"
+set style line  2 lt 1 lw 4 lc rgb "#DD420E"
+set style line  3 lt 1 lw 4 lc rgb "#FFD320"
+set style line  4 lt 1 lw 4 lc rgb "#579D1C"
+set style line  5 lt 1 lw 4 lc rgb "#7E0021"
+set style line  6 lt 1 lw 4 lc rgb "#83CAFF"
+set style line  7 lt 1 lw 4 lc rgb "#314004"
+set style line  8 lt 1 lw 4 lc rgb "#AECF00"
+set style line  9 lt 1 lw 4 lc rgb "#4B1F6F"
+set style line 10 lt 1 lw 4 lc rgb "#FF950E"
+set style line 11 lt 1 lw 4 lc rgb "#C5000B"
+set style line 12 lt 1 lw 4 lc rgb "#0084D1"
+set palette model RGB defined (0 '#FFFFFF', 1 "#7DC5FC", 2 "#AEFF00",\
+                               3 "#DD420E", 4 "#FF320A")
+
+set xlabel "Molecular Geometry"
+set ylabel "Number of Entries"
+set datafile separator ";"
+set style data histogram 
+set key autotitle columnheader
+set key invert
+set style histogram rowstacked 
+set boxwidth 0.85
+set style fill solid noborder 
+
+set key autotitle columnheader Right invert reverse title "Metal" 
+set xtics nomirror rotate by -55 #font "Arial,7" offset 0,0
+plot "< ./script-frequency-table_geometry_by_metal.py" u 2:xtic(1) ls 1, for [i=3:11] '' u i ls i-1
+
+

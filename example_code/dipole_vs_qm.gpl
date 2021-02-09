@@ -1,0 +1,29 @@
+set terminal pngcairo enhanced color font "Arial,10" size 640,640
+set output 'dipole_vs_qm.png'
+
+set style line  1 lt 1 lw 4 lc rgb "#004586"
+set style line  2 lt 1 lw 4 lc rgb "#DD420E"
+set style line  3 lt 1 lw 4 lc rgb "#FFD320"
+set style line  4 lt 1 lw 4 lc rgb "#579D1C"
+set style line  5 lt 1 lw 4 lc rgb "#7E0021"
+set style line  6 lt 1 lw 4 lc rgb "#83CAFF"
+set style line  7 lt 1 lw 4 lc rgb "#314004"
+set style line  8 lt 1 lw 4 lc rgb "#AECF00"
+set style line  9 lt 1 lw 4 lc rgb "#4B1F6F"
+set style line 10 lt 1 lw 4 lc rgb "#FF950E"
+set style line 11 lt 1 lw 4 lc rgb "#C5000B"
+set style line 12 lt 1 lw 4 lc rgb "#0084D1"
+
+set datafile separator ";"
+
+set palette defined (0 'red', 0.25 'orange', 0.5 'yellow', 0.75 'green', 1.0 'dark-green')
+set xtics format "%5.2f" nomirror
+set ytics format "%0.1f" nomirror
+set xlabel "q_{Metal} (e)"
+set ylabel "|{/Symbol m}_{Dipole}| (Debye)"
+set cbtics format "%3.1f"
+set cblabel "G_1"
+unset key
+plot "<./script-bivar_dipole_vs_qMetal.py" index 0 u 1:2:5 w p palette pt 7 ps 1.5
+
+

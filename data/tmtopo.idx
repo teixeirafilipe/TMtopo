@@ -1,0 +1,1111 @@
+Entry  , Filename    , Formula        , Charge, Metal, Oxidation_No, Spin_Mult, Functional, Basis Set, Geometry
+      1, A00001.dat  , CoCl2          ,  +0.00, Co   ,            2,         2, TPSSH    , TZVP     , linear
+      2, A00002.dat  , CoCl2          ,  +0.00, Co   ,            2,         4, TPSSH    , TZVP     , linear
+      3, A00003.dat  , CoCl2          ,  +0.00, Co   ,            2,         2, TPSSH    , TZVP     , angular
+      4, A00004.dat  , CoCl3          ,  +0.00, Co   ,            3,         1, TPSSH    , TZVP     , trigonal pyramidal
+      5, A00005.dat  , CoCl3          ,  +0.00, Co   ,            3,         3, TPSSH    , TZVP     , T-shaped
+      6, A00006.dat  , CoCl3          ,  +0.00, Co   ,            3,         5, TPSSH    , TZVP     , trigonal planar
+      7, A00007.dat  , CoCl3          ,  +0.00, Co   ,            3,         3, TPSSH    , TZVP     , trigonal pyramidal
+      8, A00008.dat  , CoCl3          ,  +0.00, Co   ,            3,         1, TPSSH    , TZVP     , T-shaped
+      9, A00009.dat  , CoCl4          ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , tetrahedal
+     10, A00010.dat  , CoCl4          ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , tetrahedal
+     11, A00011.dat  , CoCl4          ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , tetrahedal
+     12, A00012.dat  , CoCl4          ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , square planar
+     13, A00013.dat  , CoCl4          ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , square planar
+     14, A00014.dat  , CoCl4          ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , seesaw
+     15, A00015.dat  , CoCl5          ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+     16, A00016.dat  , CoCl5          ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , square pyramidal
+     17, A00017.dat  , CoCl5          ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , square pyramidal
+     18, A00018.dat  , CoCl5          ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , square pyramidal
+     19, A00019.dat  , CoCl6          ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , octahedral
+     20, A00020.dat  , CoFCl          ,  +0.00, Co   ,            2,         2, TPSSH    , TZVP     , angular
+     21, A00021.dat  , CoFCl          ,  +0.00, Co   ,            2,         4, TPSSH    , TZVP     , linear
+     22, A00022.dat  , CoFCl          ,  +0.00, Co   ,            2,         4, TPSSH    , TZVP     , angular
+     23, A00023.dat  , CoFCl2         ,  +0.00, Co   ,            3,         1, TPSSH    , TZVP     , trigonal pyramidal
+     24, A00024.dat  , CoFCl2         ,  +0.00, Co   ,            3,         3, TPSSH    , TZVP     , trigonal pyramidal
+     25, A00025.dat  , CoFCl2         ,  +0.00, Co   ,            3,         5, TPSSH    , TZVP     , trigonal planar
+     26, A00026.dat  , CoCl2F         ,  +0.00, Co   ,            3,         1, TPSSH    , TZVP     , T-shaped
+     27, A00027.dat  , CoCl2F         ,  +0.00, Co   ,            3,         3, TPSSH    , TZVP     , T-shaped
+     28, A00028.dat  , CoCl2F         ,  +0.00, Co   ,            3,         5, TPSSH    , TZVP     , trigonal planar
+     29, A00029.dat  , CoFCl2         ,  +0.00, Co   ,            3,         1, TPSSH    , TZVP     , T-shaped
+     30, A00030.dat  , CoFCl2         ,  +0.00, Co   ,            3,         3, TPSSH    , TZVP     , T-shaped
+     31, A00031.dat  , CoFCl3         ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , tetrahedal
+     32, A00032.dat  , CoFCl3         ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , seesaw
+     33, A00033.dat  , CoFCl3         ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , tetrahedal
+     34, A00034.dat  , CoFCl3         ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , seesaw
+     35, A00035.dat  , CoFCl3         ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , seesaw
+     36, A00036.dat  , CoCl3F         ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , tetrahedal
+     37, A00037.dat  , CoCl3F         ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , seesaw
+     38, A00038.dat  , CoCl3F         ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , tetrahedal
+     39, A00039.dat  , CoCl3F         ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , tetrahedal
+     40, A00040.dat  , CoFCl4         ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+     41, A00041.dat  , CoFCl4         ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , square pyramidal
+     42, A00042.dat  , CoFCl4         ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , trigonal bipyramidal
+     43, A00043.dat  , CoCl4F         ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+     44, A00044.dat  , CoCl4F         ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , square pyramidal
+     45, A00045.dat  , CoCl4F         ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , square pyramidal
+     46, A00046.dat  , CoFCl4         ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , square pyramidal
+     47, A00047.dat  , CoCl4F         ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , seesaw
+     48, A00048.dat  , CoCl5F         ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , octahedral
+     49, A00049.dat  , CoF2           ,  +0.00, Co   ,            2,         2, TPSSH    , TZVP     , linear
+     50, A00050.dat  , CoF2           ,  +0.00, Co   ,            2,         4, TPSSH    , TZVP     , linear
+     51, A00051.dat  , CoF2Cl         ,  +0.00, Co   ,            3,         1, TPSSH    , TZVP     , trigonal pyramidal
+     52, A00052.dat  , CoF2Cl         ,  +0.00, Co   ,            3,         3, TPSSH    , TZVP     , T-shaped
+     53, A00053.dat  , CoF2Cl         ,  +0.00, Co   ,            3,         5, TPSSH    , TZVP     , trigonal planar
+     54, A00054.dat  , CoF2Cl         ,  +0.00, Co   ,            3,         3, TPSSH    , TZVP     , trigonal pyramidal
+     55, A00055.dat  , CoF2Cl         ,  +0.00, Co   ,            3,         1, TPSSH    , TZVP     , T-shaped
+     56, A00056.dat  , CoClF2         ,  +0.00, Co   ,            3,         1, TPSSH    , TZVP     , T-shaped
+     57, A00057.dat  , CoClF2         ,  +0.00, Co   ,            3,         3, TPSSH    , TZVP     , T-shaped
+     58, A00058.dat  , CoClF2         ,  +0.00, Co   ,            3,         5, TPSSH    , TZVP     , trigonal planar
+     59, A00059.dat  , CoF2Cl2        ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , seesaw
+     60, A00060.dat  , CoF2Cl2        ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , tetrahedal
+     61, A00061.dat  , CoF2Cl2        ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , tetrahedal
+     62, A00062.dat  , CoF2Cl2        ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , square planar
+     63, A00063.dat  , CoF2Cl2        ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , seesaw
+     64, A00064.dat  , CoCl2F2        ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , square planar
+     65, A00065.dat  , CoCl2F2        ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , square planar
+     66, A00066.dat  , CoCl2F2        ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , tetrahedal
+     67, A00067.dat  , CoCl2F2        ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , tetrahedal
+     68, A00068.dat  , CoCl2F2        ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , tetrahedal
+     69, A00069.dat  , CoF2Cl2        ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , seesaw
+     70, A00070.dat  , CoF2Cl3        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+     71, A00071.dat  , CoF2Cl3        ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , trigonal bipyramidal
+     72, A00072.dat  , CoF2Cl3        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , trigonal bipyramidal
+     73, A00073.dat  , CoCl3F2        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , seesaw
+     74, A00074.dat  , CoCl3F2        ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , square pyramidal
+     75, A00075.dat  , CoCl3F2        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , square pyramidal
+     76, A00076.dat  , CoCl3F2        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+     77, A00077.dat  , CoF2Cl3        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , square pyramidal
+     78, A00078.dat  , CoF2Cl3        ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , square pyramidal
+     79, A00079.dat  , CoF2Cl3        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , square pyramidal
+     80, A00080.dat  , CoCl3F2        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , square pyramidal
+     81, A00081.dat  , CoCl4F2        ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , octahedral
+     82, A00082.dat  , CoCl4F2        ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , octahedral
+     83, A00083.dat  , CoF3           ,  +0.00, Co   ,            3,         1, TPSSH    , TZVP     , trigonal pyramidal
+     84, A00084.dat  , CoF3           ,  +0.00, Co   ,            3,         5, TPSSH    , TZVP     , trigonal planar
+     85, A00085.dat  , CoF3           ,  +0.00, Co   ,            3,         3, TPSSH    , TZVP     , trigonal pyramidal
+     86, A00086.dat  , CoF3           ,  +0.00, Co   ,            3,         1, TPSSH    , TZVP     , T-shaped
+     87, A00087.dat  , CoF3           ,  +0.00, Co   ,            3,         3, TPSSH    , TZVP     , T-shaped
+     88, A00088.dat  , CoF3Cl         ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , seesaw
+     89, A00089.dat  , CoF3Cl         ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , seesaw
+     90, A00090.dat  , CoF3Cl         ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , tetrahedal
+     91, A00091.dat  , CoF3Cl         ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , square planar
+     92, A00092.dat  , CoF3Cl         ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , square planar
+     93, A00093.dat  , CoF3Cl         ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , seesaw
+     94, A00094.dat  , CoClF3         ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , tetrahedal
+     95, A00095.dat  , CoClF3         ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , seesaw
+     96, A00096.dat  , CoClF3         ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , tetrahedal
+     97, A00097.dat  , CoCl2F3        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+     98, A00098.dat  , CoCl2F3        ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , square pyramidal
+     99, A00099.dat  , CoCl2F3        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , trigonal bipyramidal
+    100, A00100.dat  , CoCl2F3        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , seesaw
+    101, A00101.dat  , CoCl2F3        ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    102, A00102.dat  , CoCl2F3        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , square pyramidal
+    103, A00103.dat  , CoF3Cl2        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+    104, A00104.dat  , CoF3Cl2        ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    105, A00105.dat  , CoF3Cl2        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , trigonal bipyramidal
+    106, A00106.dat  , CoF3Cl2        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , seesaw
+    107, A00107.dat  , CoF3Cl2        ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , square pyramidal
+    108, A00108.dat  , CoF3Cl2        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , square pyramidal
+    109, A00109.dat  , CoCl3F3        ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , octahedral
+    110, A00110.dat  , CoCl3F3        ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , octahedral
+    111, A00111.dat  , CoCl3F3        ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , seesaw
+    112, A00112.dat  , CoF4           ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , seesaw
+    113, A00113.dat  , CoF4           ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , seesaw
+    114, A00114.dat  , CoF4           ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , tetrahedal
+    115, A00115.dat  , CoF4           ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , square planar
+    116, A00116.dat  , CoF4           ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , square planar
+    117, A00117.dat  , CoF4           ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , square planar
+    118, A00118.dat  , CoF4Cl         ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+    119, A00119.dat  , CoF4Cl         ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    120, A00120.dat  , CoF4Cl         ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , square pyramidal
+    121, A00121.dat  , CoClF4         ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+    122, A00122.dat  , CoClF4         ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    123, A00123.dat  , CoClF4         ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , trigonal bipyramidal
+    124, A00124.dat  , CoClF4         ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , square pyramidal
+    125, A00125.dat  , CoF4Cl         ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , square pyramidal
+    126, A00126.dat  , CoCl2F4        ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , octahedral
+    127, A00127.dat  , CoCl2F4        ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , seesaw
+    128, A00128.dat  , CoF5           ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+    129, A00129.dat  , CoF5           ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    130, A00130.dat  , CoF5           ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , trigonal bipyramidal
+    131, A00131.dat  , CoF5           ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , square pyramidal
+    132, A00132.dat  , CoF5           ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , square pyramidal
+    133, A00133.dat  , CoClF5         ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , octahedral
+    134, A00134.dat  , CoClF5         ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , octahedral
+    135, A00135.dat  , CoF6           ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , octahedral
+    136, A00136.dat  , CoF6           ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , octahedral
+    137, A00137.dat  , CoO            ,  +0.00, Co   ,            2,         2, TPSSH    , TZVP     , linear
+    138, A00138.dat  , CoO            ,  +0.00, Co   ,            2,         4, TPSSH    , TZVP     , linear
+    139, A00139.dat  , CoOCl          ,  +0.00, Co   ,            3,         1, TPSSH    , TZVP     , linear
+    140, A00140.dat  , CoOCl          ,  +0.00, Co   ,            3,         3, TPSSH    , TZVP     , linear
+    141, A00141.dat  , CoOCl          ,  +0.00, Co   ,            3,         5, TPSSH    , TZVP     , linear
+    142, A00142.dat  , CoOCl          ,  +0.00, Co   ,            3,         1, TPSSH    , TZVP     , angular
+    143, A00143.dat  , CoOCl          ,  +0.00, Co   ,            3,         3, TPSSH    , TZVP     , angular
+    144, A00144.dat  , CoOCl          ,  +0.00, Co   ,            3,         5, TPSSH    , TZVP     , angular
+    145, A00145.dat  , CoOCl2         ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , T-shaped
+    146, A00146.dat  , CoOCl2         ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , trigonal pyramidal
+    147, A00147.dat  , CoOCl2         ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , T-shaped
+    148, A00148.dat  , CoCl2O         ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , trigonal planar
+    149, A00149.dat  , CoCl2O         ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , T-shaped
+    150, A00150.dat  , CoCl2O         ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , T-shaped
+    151, A00151.dat  , CoOCl2         ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , T-shaped
+    152, A00152.dat  , CoOCl3         ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    153, A00153.dat  , CoOCl3         ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    154, A00154.dat  , CoOCl3         ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , tetrahedal
+    155, A00155.dat  , CoOCl3         ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , T-shaped
+    156, A00156.dat  , CoOCl3         ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , seesaw
+    157, A00157.dat  , CoOCl3         ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , seesaw
+    158, A00158.dat  , CoCl3O         ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    159, A00159.dat  , CoCl3O         ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    160, A00160.dat  , CoCl3O         ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , tetrahedal
+    161, A00161.dat  , CoCl3O         ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , seesaw
+    162, A00162.dat  , CoOCl4         ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , square pyramidal
+    163, A00163.dat  , CoOCl4         ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , square pyramidal
+    164, A00164.dat  , CoCl4O         ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , square pyramidal
+    165, A00165.dat  , CoCl4O         ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , square pyramidal
+    166, A00166.dat  , CoOF           ,  +0.00, Co   ,            3,         1, TPSSH    , TZVP     , linear
+    167, A00167.dat  , CoOF           ,  +0.00, Co   ,            3,         3, TPSSH    , TZVP     , angular
+    168, A00168.dat  , CoOF           ,  +0.00, Co   ,            3,         5, TPSSH    , TZVP     , linear
+    169, A00169.dat  , CoOF           ,  +0.00, Co   ,            3,         1, TPSSH    , TZVP     , angular
+    170, A00170.dat  , CoOF           ,  +0.00, Co   ,            3,         5, TPSSH    , TZVP     , angular
+    171, A00171.dat  , CoOFCl         ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , T-shaped
+    172, A00172.dat  , CoOFCl         ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , T-shaped
+    173, A00173.dat  , CoOFCl         ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , T-shaped
+    174, A00174.dat  , CoFOCl         ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , T-shaped
+    175, A00175.dat  , CoFOCl         ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , T-shaped
+    176, A00176.dat  , CoFOCl         ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , T-shaped
+    177, A00177.dat  , CoOFCl2        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    178, A00178.dat  , CoOFCl2        ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    179, A00179.dat  , CoOFCl2        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , tetrahedal
+    180, A00180.dat  , CoOFCl2        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , T-shaped
+    181, A00181.dat  , CoOFCl2        ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , seesaw
+    182, A00182.dat  , CoOFCl2        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , seesaw
+    183, A00183.dat  , CoCl2OF        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , T-shaped
+    184, A00184.dat  , CoCl2OF        ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , seesaw
+    185, A00185.dat  , CoCl2OF        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , seesaw
+    186, A00186.dat  , CoCl2OF        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    187, A00187.dat  , CoCl2OF        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , tetrahedal
+    188, A00188.dat  , CoCl2FO        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    189, A00189.dat  , CoCl2FO        ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , seesaw
+    190, A00190.dat  , CoCl2FO        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , tetrahedal
+    191, A00191.dat  , CoFCl2O        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    192, A00192.dat  , CoFCl2O        ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , seesaw
+    193, A00193.dat  , CoFCl2O        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , tetrahedal
+    194, A00194.dat  , CoOCl3F        ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , square pyramidal
+    195, A00195.dat  , CoOCl3F        ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , square pyramidal
+    196, A00196.dat  , CoCl3FO        ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , square pyramidal
+    197, A00197.dat  , CoCl3FO        ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , square pyramidal
+    198, A00198.dat  , CoCl3OF        ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , square pyramidal
+    199, A00199.dat  , CoCl3OF        ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , square pyramidal
+    200, A00200.dat  , CoOF2          ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , T-shaped
+    201, A00201.dat  , CoOF2          ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , T-shaped
+    202, A00202.dat  , CoOF2          ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , T-shaped
+    203, A00203.dat  , CoF2O          ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , T-shaped
+    204, A00204.dat  , CoF2O          ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , T-shaped
+    205, A00205.dat  , CoF2O          ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , T-shaped
+    206, A00206.dat  , CoOF2Cl        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    207, A00207.dat  , CoOF2Cl        ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    208, A00208.dat  , CoOF2Cl        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , tetrahedal
+    209, A00209.dat  , CoF2OCl        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , T-shaped
+    210, A00210.dat  , CoF2OCl        ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , seesaw
+    211, A00211.dat  , CoF2OCl        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , seesaw
+    212, A00212.dat  , CoOF2Cl        ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , seesaw
+    213, A00213.dat  , CoOF2Cl        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , seesaw
+    214, A00214.dat  , CoClOF2        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    215, A00215.dat  , CoClOF2        ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    216, A00216.dat  , CoClOF2        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , tetrahedal
+    217, A00217.dat  , CoClF2O        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    218, A00218.dat  , CoClF2O        ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    219, A00219.dat  , CoClF2O        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , tetrahedal
+    220, A00220.dat  , CoF2ClO        ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    221, A00221.dat  , CoF2ClO        ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    222, A00222.dat  , CoF2ClO        ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , tetrahedal
+    223, A00223.dat  , CoCl2OF2       ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    224, A00224.dat  , CoCl2OF2       ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , trigonal bipyramidal
+    225, A00225.dat  , CoCl2F2O       ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , square pyramidal
+    226, A00226.dat  , CoCl2F2O       ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , square pyramidal
+    227, A00227.dat  , CoCl2F2O       ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    228, A00228.dat  , CoOCl2F2       ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , square pyramidal
+    229, A00229.dat  , CoOCl2F2       ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , square pyramidal
+    230, A00230.dat  , CoF2Cl2O       ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    231, A00231.dat  , CoF2Cl2O       ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , square pyramidal
+    232, A00232.dat  , CoOF3          ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    233, A00233.dat  , CoOF3          ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , seesaw
+    234, A00234.dat  , CoOF3          ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , tetrahedal
+    235, A00235.dat  , CoOF3          ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , seesaw
+    236, A00236.dat  , CoOF3          ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , seesaw
+    237, A00237.dat  , CoOF3          ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    238, A00238.dat  , CoF3O          ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    239, A00239.dat  , CoF3O          ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    240, A00240.dat  , CoF3O          ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , tetrahedal
+    241, A00241.dat  , CoClF3O        ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    242, A00242.dat  , CoClF3O        ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , square pyramidal
+    243, A00243.dat  , CoClOF3        ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    244, A00244.dat  , CoClOF3        ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , trigonal bipyramidal
+    245, A00245.dat  , CoF4O          ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    246, A00246.dat  , CoF4O          ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , square pyramidal
+    247, A00247.dat  , CoOF4          ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    248, A00248.dat  , CoOF4          ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , square pyramidal
+    249, A00249.dat  , CoO2           ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , linear
+    250, A00250.dat  , CoO2           ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , linear
+    251, A00251.dat  , CoO2           ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , linear
+    252, A00252.dat  , CoO2           ,  +0.00, Co   ,            4,         2, TPSSH    , TZVP     , angular
+    253, A00253.dat  , CoO2           ,  +0.00, Co   ,            4,         4, TPSSH    , TZVP     , angular
+    254, A00254.dat  , CoO2           ,  +0.00, Co   ,            4,         6, TPSSH    , TZVP     , angular
+    255, A00255.dat  , CoO2Cl         ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , T-shaped
+    256, A00256.dat  , CoO2Cl         ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , trigonal planar
+    257, A00257.dat  , CoO2Cl         ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , T-shaped
+    258, A00258.dat  , CoClO2         ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , T-shaped
+    259, A00259.dat  , CoClO2         ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , trigonal planar
+    260, A00260.dat  , CoClO2         ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , T-shaped
+    261, A00261.dat  , CoO2Cl2        ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , tetrahedal
+    262, A00262.dat  , CoO2Cl2        ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , tetrahedal
+    263, A00263.dat  , CoO2Cl2        ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , seesaw
+    264, A00264.dat  , CoO2Cl2        ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , seesaw
+    265, A00265.dat  , CoCl2O2        ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , seesaw
+    266, A00266.dat  , CoCl2O2        ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , seesaw
+    267, A00267.dat  , CoO2F          ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , T-shaped
+    268, A00268.dat  , CoO2F          ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , T-shaped
+    269, A00269.dat  , CoO2F          ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , T-shaped
+    270, A00270.dat  , CoFO2          ,  +0.00, Co   ,            5,         1, TPSSH    , TZVP     , T-shaped
+    271, A00271.dat  , CoFO2          ,  +0.00, Co   ,            5,         3, TPSSH    , TZVP     , T-shaped
+    272, A00272.dat  , CoFO2          ,  +0.00, Co   ,            5,         5, TPSSH    , TZVP     , T-shaped
+    273, A00273.dat  , CoO2FCl        ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , tetrahedal
+    274, A00274.dat  , CoO2FCl        ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , tetrahedal
+    275, A00275.dat  , CoO2FCl        ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , seesaw
+    276, A00276.dat  , CoO2FCl        ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , seesaw
+    277, A00277.dat  , CoFO2Cl        ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , seesaw
+    278, A00278.dat  , CoFO2Cl        ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , seesaw
+    279, A00279.dat  , CoO2F2         ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , tetrahedal
+    280, A00280.dat  , CoO2F2         ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , tetrahedal
+    281, A00281.dat  , CoO2F2         ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , square planar
+    282, A00282.dat  , CoO2F2         ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , seesaw
+    283, A00283.dat  , CoO3           ,  +0.00, Co   ,            6,         4, TPSSH    , TZVP     , T-shaped
+    284, A00284.dat  , CoO3           ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , trigonal pyramidal
+    285, A00285.dat  , CoO3           ,  +0.00, Co   ,            6,         2, TPSSH    , TZVP     , T-shaped
+    286, A00286.dat  , CrCl2          ,  +0.00, Cr   ,            2,         1, TPSSH    , TZVP     , linear
+    287, A00287.dat  , CrCl2          ,  +0.00, Cr   ,            2,         3, TPSSH    , TZVP     , linear
+    288, A00288.dat  , CrCl2          ,  +0.00, Cr   ,            2,         5, TPSSH    , TZVP     , linear
+    289, A00289.dat  , CrCl2          ,  +0.00, Cr   ,            2,         1, TPSSH    , TZVP     , angular
+    290, A00290.dat  , CrCl2          ,  +0.00, Cr   ,            2,         5, TPSSH    , TZVP     , angular
+    291, A00291.dat  , CrCl2          ,  +0.00, Cr   ,            2,         3, TPSSH    , TZVP     , angular
+    292, A00292.dat  , CrCl3          ,  +0.00, Cr   ,            3,         2, TPSSH    , TZVP     , trigonal planar
+    293, A00293.dat  , CrCl3          ,  +0.00, Cr   ,            3,         4, TPSSH    , TZVP     , trigonal planar
+    294, A00294.dat  , CrCl3          ,  +0.00, Cr   ,            3,         4, TPSSH    , TZVP     , T-shaped
+    295, A00295.dat  , CrCl4          ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    296, A00296.dat  , CrCl4          ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , tetrahedal
+    297, A00297.dat  , CrCl4          ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , square planar
+    298, A00298.dat  , CrCl4          ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , square planar
+    299, A00299.dat  , CrCl5          ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , square pyramidal
+    300, A00300.dat  , CrCl6          ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , octahedral
+    301, A00301.dat  , CrFCl          ,  +0.00, Cr   ,            2,         1, TPSSH    , TZVP     , linear
+    302, A00302.dat  , CrFCl          ,  +0.00, Cr   ,            2,         3, TPSSH    , TZVP     , angular
+    303, A00303.dat  , CrFCl          ,  +0.00, Cr   ,            2,         5, TPSSH    , TZVP     , linear
+    304, A00304.dat  , CrFCl          ,  +0.00, Cr   ,            2,         1, TPSSH    , TZVP     , angular
+    305, A00305.dat  , CrFCl          ,  +0.00, Cr   ,            2,         5, TPSSH    , TZVP     , angular
+    306, A00306.dat  , CrFCl2         ,  +0.00, Cr   ,            3,         2, TPSSH    , TZVP     , T-shaped
+    307, A00307.dat  , CrFCl2         ,  +0.00, Cr   ,            3,         4, TPSSH    , TZVP     , trigonal pyramidal
+    308, A00308.dat  , CrCl2F         ,  +0.00, Cr   ,            3,         2, TPSSH    , TZVP     , trigonal planar
+    309, A00309.dat  , CrCl2F         ,  +0.00, Cr   ,            3,         4, TPSSH    , TZVP     , trigonal planar
+    310, A00310.dat  , CrFCl2         ,  +0.00, Cr   ,            3,         2, TPSSH    , TZVP     , trigonal planar
+    311, A00311.dat  , CrFCl2         ,  +0.00, Cr   ,            3,         4, TPSSH    , TZVP     , T-shaped
+    312, A00312.dat  , CrFCl3         ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    313, A00313.dat  , CrFCl3         ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , tetrahedal
+    314, A00314.dat  , CrFCl3         ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , seesaw
+    315, A00315.dat  , CrFCl3         ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , seesaw
+    316, A00316.dat  , CrCl3F         ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    317, A00317.dat  , CrCl3F         ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , tetrahedal
+    318, A00318.dat  , CrFCl4         ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    319, A00319.dat  , CrCl4F         ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    320, A00320.dat  , CrFCl4         ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , square pyramidal
+    321, A00321.dat  , CrCl4F         ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , square pyramidal
+    322, A00322.dat  , CrCl5F         ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , octahedral
+    323, A00323.dat  , CrF2           ,  +0.00, Cr   ,            2,         1, TPSSH    , TZVP     , linear
+    324, A00324.dat  , CrF2           ,  +0.00, Cr   ,            2,         3, TPSSH    , TZVP     , linear
+    325, A00325.dat  , CrF2           ,  +0.00, Cr   ,            2,         5, TPSSH    , TZVP     , linear
+    326, A00326.dat  , CrF2           ,  +0.00, Cr   ,            2,         1, TPSSH    , TZVP     , angular
+    327, A00327.dat  , CrF2           ,  +0.00, Cr   ,            2,         3, TPSSH    , TZVP     , angular
+    328, A00328.dat  , CrF2           ,  +0.00, Cr   ,            2,         5, TPSSH    , TZVP     , angular
+    329, A00329.dat  , CrF2Cl         ,  +0.00, Cr   ,            3,         2, TPSSH    , TZVP     , trigonal planar
+    330, A00330.dat  , CrF2Cl         ,  +0.00, Cr   ,            3,         4, TPSSH    , TZVP     , trigonal planar
+    331, A00331.dat  , CrF2Cl         ,  +0.00, Cr   ,            3,         4, TPSSH    , TZVP     , trigonal pyramidal
+    332, A00332.dat  , CrClF2         ,  +0.00, Cr   ,            3,         2, TPSSH    , TZVP     , trigonal planar
+    333, A00333.dat  , CrClF2         ,  +0.00, Cr   ,            3,         4, TPSSH    , TZVP     , T-shaped
+    334, A00334.dat  , CrF2Cl2        ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    335, A00335.dat  , CrF2Cl2        ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , tetrahedal
+    336, A00336.dat  , CrF2Cl2        ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , seesaw
+    337, A00337.dat  , CrF2Cl2        ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , seesaw
+    338, A00338.dat  , CrCl2F2        ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , square planar
+    339, A00339.dat  , CrCl2F2        ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , square planar
+    340, A00340.dat  , CrCl2F2        ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    341, A00341.dat  , CrCl2F2        ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , tetrahedal
+    342, A00342.dat  , CrF2Cl3        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    343, A00343.dat  , CrCl3F2        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    344, A00344.dat  , CrF2Cl3        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , square pyramidal
+    345, A00345.dat  , CrCl3F2        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , square pyramidal
+    346, A00346.dat  , CrCl4F2        ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , octahedral
+    347, A00347.dat  , CrF2Cl4        ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , octahedral
+    348, A00348.dat  , CrF3           ,  +0.00, Cr   ,            3,         2, TPSSH    , TZVP     , trigonal planar
+    349, A00349.dat  , CrF3           ,  +0.00, Cr   ,            3,         4, TPSSH    , TZVP     , trigonal planar
+    350, A00350.dat  , CrF3Cl         ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    351, A00351.dat  , CrF3Cl         ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , tetrahedal
+    352, A00352.dat  , CrF3Cl         ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , seesaw
+    353, A00353.dat  , CrF3Cl         ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , seesaw
+    354, A00354.dat  , CrClF3         ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    355, A00355.dat  , CrClF3         ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , tetrahedal
+    356, A00356.dat  , CrCl2F3        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    357, A00357.dat  , CrF3Cl2        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    358, A00358.dat  , CrF3Cl2        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , square pyramidal
+    359, A00359.dat  , CrCl3F3        ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , octahedral
+    360, A00360.dat  , CrF4           ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    361, A00361.dat  , CrF4           ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , tetrahedal
+    362, A00362.dat  , CrF4           ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , square planar
+    363, A00363.dat  , CrF4           ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , square planar
+    364, A00364.dat  , CrF4Cl         ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    365, A00365.dat  , CrClF4         ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    366, A00366.dat  , CrCl2F4        ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , octahedral
+    367, A00367.dat  , CrF5           ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    368, A00368.dat  , CrF5           ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , square pyramidal
+    369, A00369.dat  , CrClF5         ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , octahedral
+    370, A00370.dat  , CrF6           ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , octahedral
+    371, A00371.dat  , CrO            ,  +0.00, Cr   ,            2,         1, TPSSH    , TZVP     , linear
+    372, A00372.dat  , CrO            ,  +0.00, Cr   ,            2,         3, TPSSH    , TZVP     , linear
+    373, A00373.dat  , CrO            ,  +0.00, Cr   ,            2,         5, TPSSH    , TZVP     , linear
+    374, A00374.dat  , CrOCl          ,  +0.00, Cr   ,            3,         2, TPSSH    , TZVP     , linear
+    375, A00375.dat  , CrOCl          ,  +0.00, Cr   ,            3,         4, TPSSH    , TZVP     , linear
+    376, A00376.dat  , CrOCl          ,  +0.00, Cr   ,            3,         2, TPSSH    , TZVP     , angular
+    377, A00377.dat  , CrOCl          ,  +0.00, Cr   ,            3,         4, TPSSH    , TZVP     , angular
+    378, A00378.dat  , CrOCl2         ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , trigonal planar
+    379, A00379.dat  , CrOCl2         ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , trigonal planar
+    380, A00380.dat  , CrOCl2         ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , T-shaped
+    381, A00381.dat  , CrCl2O         ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , trigonal planar
+    382, A00382.dat  , CrCl2O         ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , trigonal planar
+    383, A00383.dat  , CrOCl3         ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    384, A00384.dat  , CrOCl3         ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , seesaw
+    385, A00385.dat  , CrCl3O         ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    386, A00386.dat  , CrOCl4         ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    387, A00387.dat  , CrCl4O         ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    388, A00388.dat  , CrOF           ,  +0.00, Cr   ,            3,         2, TPSSH    , TZVP     , linear
+    389, A00389.dat  , CrOF           ,  +0.00, Cr   ,            3,         4, TPSSH    , TZVP     , linear
+    390, A00390.dat  , CrOF           ,  +0.00, Cr   ,            3,         2, TPSSH    , TZVP     , angular
+    391, A00391.dat  , CrOF           ,  +0.00, Cr   ,            3,         4, TPSSH    , TZVP     , angular
+    392, A00392.dat  , CrOFCl         ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , T-shaped
+    393, A00393.dat  , CrOFCl         ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , T-shaped
+    394, A00394.dat  , CrFOCl         ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , T-shaped
+    395, A00395.dat  , CrFOCl         ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , T-shaped
+    396, A00396.dat  , CrOFCl2        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    397, A00397.dat  , CrOFCl2        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , seesaw
+    398, A00398.dat  , CrCl2OF        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , seesaw
+    399, A00399.dat  , CrCl2OF        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    400, A00400.dat  , CrCl2FO        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    401, A00401.dat  , CrFCl2O        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    402, A00402.dat  , CrOCl3F        ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , trigonal bipyramidal
+    403, A00403.dat  , CrCl3FO        ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    404, A00404.dat  , CrCl3OF        ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    405, A00405.dat  , CrOF2          ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , trigonal planar
+    406, A00406.dat  , CrOF2          ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , T-shaped
+    407, A00407.dat  , CrF2O          ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , trigonal planar
+    408, A00408.dat  , CrF2O          ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , T-shaped
+    409, A00409.dat  , CrOF2Cl        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    410, A00410.dat  , CrF2OCl        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , seesaw
+    411, A00411.dat  , CrOF2Cl        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , seesaw
+    412, A00412.dat  , CrClOF2        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    413, A00413.dat  , CrClF2O        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    414, A00414.dat  , CrF2ClO        ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    415, A00415.dat  , CrCl2OF2       ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    416, A00416.dat  , CrCl2F2O       ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    417, A00417.dat  , CrOCl2F2       ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , trigonal bipyramidal
+    418, A00418.dat  , CrF2Cl2O       ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    419, A00419.dat  , CrOF3          ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    420, A00420.dat  , CrOF3          ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , seesaw
+    421, A00421.dat  , CrF3O          ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    422, A00422.dat  , CrClF3O        ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , trigonal bipyramidal
+    423, A00423.dat  , CrClOF3        ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    424, A00424.dat  , CrF4O          ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    425, A00425.dat  , CrOF4          ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , trigonal bipyramidal
+    426, A00426.dat  , CrO2           ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , linear
+    427, A00427.dat  , CrO2           ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , linear
+    428, A00428.dat  , CrO2           ,  +0.00, Cr   ,            4,         1, TPSSH    , TZVP     , angular
+    429, A00429.dat  , CrO2           ,  +0.00, Cr   ,            4,         3, TPSSH    , TZVP     , angular
+    430, A00430.dat  , CrO2Cl         ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , T-shaped
+    431, A00431.dat  , CrO2Cl         ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , trigonal pyramidal
+    432, A00432.dat  , CrClO2         ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , T-shaped
+    433, A00433.dat  , CrO2Cl2        ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , tetrahedal
+    434, A00434.dat  , CrO2Cl2        ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , seesaw
+    435, A00435.dat  , CrO2F          ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , T-shaped
+    436, A00436.dat  , CrO2F          ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , trigonal pyramidal
+    437, A00437.dat  , CrFO2          ,  +0.00, Cr   ,            5,         2, TPSSH    , TZVP     , T-shaped
+    438, A00438.dat  , CrO2FCl        ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , tetrahedal
+    439, A00439.dat  , CrO2FCl        ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , seesaw
+    440, A00440.dat  , CrFO2Cl        ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , T-shaped
+    441, A00441.dat  , CrO2F2         ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , tetrahedal
+    442, A00442.dat  , CrO2F2         ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , seesaw
+    443, A00443.dat  , CrO3           ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , trigonal planar
+    444, A00444.dat  , CrO3           ,  +0.00, Cr   ,            6,         1, TPSSH    , TZVP     , trigonal pyramidal
+    445, A00445.dat  , CuCl           ,  +0.00, Cu   ,            1,         1, TPSSH    , TZVP     , linear
+    446, A00446.dat  , CuCl2          ,  +0.00, Cu   ,            2,         2, TPSSH    , TZVP     , linear
+    447, A00447.dat  , CuCl2          ,  +0.00, Cu   ,            2,         2, TPSSH    , TZVP     , angular
+    448, A00448.dat  , CuF            ,  +0.00, Cu   ,            1,         1, TPSSH    , TZVP     , linear
+    449, A00449.dat  , CuFCl          ,  +0.00, Cu   ,            2,         2, TPSSH    , TZVP     , angular
+    450, A00450.dat  , CuF2           ,  +0.00, Cu   ,            2,         2, TPSSH    , TZVP     , linear
+    451, A00451.dat  , CuO            ,  +0.00, Cu   ,            2,         2, TPSSH    , TZVP     , linear
+    452, A00452.dat  , FeCl2          ,  +0.00, Fe   ,            2,         1, TPSSH    , TZVP     , linear
+    453, A00453.dat  , FeCl2          ,  +0.00, Fe   ,            2,         3, TPSSH    , TZVP     , linear
+    454, A00454.dat  , FeCl2          ,  +0.00, Fe   ,            2,         5, TPSSH    , TZVP     , linear
+    455, A00455.dat  , FeCl2          ,  +0.00, Fe   ,            2,         1, TPSSH    , TZVP     , angular
+    456, A00456.dat  , FeCl2          ,  +0.00, Fe   ,            2,         5, TPSSH    , TZVP     , angular
+    457, A00457.dat  , FeCl3          ,  +0.00, Fe   ,            3,         2, TPSSH    , TZVP     , trigonal planar
+    458, A00458.dat  , FeCl3          ,  +0.00, Fe   ,            3,         4, TPSSH    , TZVP     , T-shaped
+    459, A00459.dat  , FeCl3          ,  +0.00, Fe   ,            3,         6, TPSSH    , TZVP     , trigonal planar
+    460, A00460.dat  , FeCl3          ,  +0.00, Fe   ,            3,         2, TPSSH    , TZVP     , T-shaped
+    461, A00461.dat  , FeCl4          ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    462, A00462.dat  , FeCl4          ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , seesaw
+    463, A00463.dat  , FeCl4          ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , tetrahedal
+    464, A00464.dat  , FeCl4          ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , square planar
+    465, A00465.dat  , FeCl4          ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , square planar
+    466, A00466.dat  , FeCl5          ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , square pyramidal
+    467, A00467.dat  , FeCl5          ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , square pyramidal
+    468, A00468.dat  , FeFCl          ,  +0.00, Fe   ,            2,         3, TPSSH    , TZVP     , linear
+    469, A00469.dat  , FeFCl          ,  +0.00, Fe   ,            2,         5, TPSSH    , TZVP     , linear
+    470, A00470.dat  , FeFCl          ,  +0.00, Fe   ,            2,         1, TPSSH    , TZVP     , angular
+    471, A00471.dat  , FeFCl          ,  +0.00, Fe   ,            2,         3, TPSSH    , TZVP     , angular
+    472, A00472.dat  , FeFCl2         ,  +0.00, Fe   ,            3,         2, TPSSH    , TZVP     , trigonal pyramidal
+    473, A00473.dat  , FeFCl2         ,  +0.00, Fe   ,            3,         4, TPSSH    , TZVP     , T-shaped
+    474, A00474.dat  , FeFCl2         ,  +0.00, Fe   ,            3,         6, TPSSH    , TZVP     , trigonal planar
+    475, A00475.dat  , FeCl2F         ,  +0.00, Fe   ,            3,         2, TPSSH    , TZVP     , T-shaped
+    476, A00476.dat  , FeCl2F         ,  +0.00, Fe   ,            3,         4, TPSSH    , TZVP     , T-shaped
+    477, A00477.dat  , FeCl2F         ,  +0.00, Fe   ,            3,         6, TPSSH    , TZVP     , trigonal planar
+    478, A00478.dat  , FeFCl2         ,  +0.00, Fe   ,            3,         2, TPSSH    , TZVP     , T-shaped
+    479, A00479.dat  , FeFCl3         ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    480, A00480.dat  , FeFCl3         ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , tetrahedal
+    481, A00481.dat  , FeFCl3         ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , tetrahedal
+    482, A00482.dat  , FeFCl3         ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , seesaw
+    483, A00483.dat  , FeFCl3         ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , seesaw
+    484, A00484.dat  , FeFCl3         ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , seesaw
+    485, A00485.dat  , FeCl3F         ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    486, A00486.dat  , FeCl3F         ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , seesaw
+    487, A00487.dat  , FeCl3F         ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , seesaw
+    488, A00488.dat  , FeCl3F         ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , tetrahedal
+    489, A00489.dat  , FeFCl4         ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , square pyramidal
+    490, A00490.dat  , FeFCl4         ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , square pyramidal
+    491, A00491.dat  , FeCl4F         ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , square pyramidal
+    492, A00492.dat  , FeCl4F         ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , square pyramidal
+    493, A00493.dat  , FeCl5F         ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , octahedral
+    494, A00494.dat  , FeF2           ,  +0.00, Fe   ,            2,         1, TPSSH    , TZVP     , linear
+    495, A00495.dat  , FeF2           ,  +0.00, Fe   ,            2,         3, TPSSH    , TZVP     , linear
+    496, A00496.dat  , FeF2           ,  +0.00, Fe   ,            2,         5, TPSSH    , TZVP     , linear
+    497, A00497.dat  , FeF2           ,  +0.00, Fe   ,            2,         1, TPSSH    , TZVP     , angular
+    498, A00498.dat  , FeF2Cl         ,  +0.00, Fe   ,            3,         2, TPSSH    , TZVP     , trigonal pyramidal
+    499, A00499.dat  , FeF2Cl         ,  +0.00, Fe   ,            3,         4, TPSSH    , TZVP     , T-shaped
+    500, A00500.dat  , FeF2Cl         ,  +0.00, Fe   ,            3,         6, TPSSH    , TZVP     , trigonal planar
+    501, A00501.dat  , FeF2Cl         ,  +0.00, Fe   ,            3,         2, TPSSH    , TZVP     , T-shaped
+    502, A00502.dat  , FeClF2         ,  +0.00, Fe   ,            3,         2, TPSSH    , TZVP     , T-shaped
+    503, A00503.dat  , FeClF2         ,  +0.00, Fe   ,            3,         4, TPSSH    , TZVP     , T-shaped
+    504, A00504.dat  , FeClF2         ,  +0.00, Fe   ,            3,         6, TPSSH    , TZVP     , T-shaped
+    505, A00505.dat  , FeF2Cl2        ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    506, A00506.dat  , FeF2Cl2        ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , tetrahedal
+    507, A00507.dat  , FeF2Cl2        ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , tetrahedal
+    508, A00508.dat  , FeF2Cl2        ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , seesaw
+    509, A00509.dat  , FeF2Cl2        ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , seesaw
+    510, A00510.dat  , FeF2Cl2        ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , square planar
+    511, A00511.dat  , FeCl2F2        ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , square planar
+    512, A00512.dat  , FeCl2F2        ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , square planar
+    513, A00513.dat  , FeCl2F2        ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , square planar
+    514, A00514.dat  , FeCl2F2        ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    515, A00515.dat  , FeCl2F2        ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , seesaw
+    516, A00516.dat  , FeCl2F2        ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , seesaw
+    517, A00517.dat  , FeF2Cl2        ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , seesaw
+    518, A00518.dat  , FeF2Cl3        ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    519, A00519.dat  , FeF2Cl3        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , trigonal bipyramidal
+    520, A00520.dat  , FeCl3F2        ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , square pyramidal
+    521, A00521.dat  , FeCl3F2        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , square pyramidal
+    522, A00522.dat  , FeCl3F2        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , trigonal bipyramidal
+    523, A00523.dat  , FeF2Cl3        ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , square pyramidal
+    524, A00524.dat  , FeF2Cl3        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , square pyramidal
+    525, A00525.dat  , FeCl4F2        ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , tetrahedal
+    526, A00526.dat  , FeCl4F2        ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , octahedral
+    527, A00527.dat  , FeF3           ,  +0.00, Fe   ,            3,         2, TPSSH    , TZVP     , trigonal planar
+    528, A00528.dat  , FeF3           ,  +0.00, Fe   ,            3,         6, TPSSH    , TZVP     , trigonal planar
+    529, A00529.dat  , FeF3           ,  +0.00, Fe   ,            3,         4, TPSSH    , TZVP     , T-shaped
+    530, A00530.dat  , FeF3Cl         ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    531, A00531.dat  , FeF3Cl         ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , seesaw
+    532, A00532.dat  , FeF3Cl         ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , seesaw
+    533, A00533.dat  , FeF3Cl         ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , seesaw
+    534, A00534.dat  , FeF3Cl         ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , square planar
+    535, A00535.dat  , FeF3Cl         ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , square planar
+    536, A00536.dat  , FeClF3         ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    537, A00537.dat  , FeClF3         ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , seesaw
+    538, A00538.dat  , FeClF3         ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , seesaw
+    539, A00539.dat  , FeCl2F3        ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , square pyramidal
+    540, A00540.dat  , FeCl2F3        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , trigonal bipyramidal
+    541, A00541.dat  , FeCl2F3        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , square pyramidal
+    542, A00542.dat  , FeF3Cl2        ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , square pyramidal
+    543, A00543.dat  , FeF3Cl2        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , trigonal bipyramidal
+    544, A00544.dat  , FeF3Cl2        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , square pyramidal
+    545, A00545.dat  , FeF3Cl2        ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    546, A00546.dat  , FeCl3F3        ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , tetrahedal
+    547, A00547.dat  , FeCl3F3        ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , octahedral
+    548, A00548.dat  , FeF4           ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    549, A00549.dat  , FeF4           ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , seesaw
+    550, A00550.dat  , FeF4           ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , seesaw
+    551, A00551.dat  , FeF4           ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , square planar
+    552, A00552.dat  , FeF4           ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , square planar
+    553, A00553.dat  , FeF4           ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , square planar
+    554, A00554.dat  , FeF4Cl         ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , square pyramidal
+    555, A00555.dat  , FeF4Cl         ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , trigonal bipyramidal
+    556, A00556.dat  , FeClF4         ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , square pyramidal
+    557, A00557.dat  , FeClF4         ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , square pyramidal
+    558, A00558.dat  , FeF4Cl         ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , square pyramidal
+    559, A00559.dat  , FeCl2F4        ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , tetrahedal
+    560, A00560.dat  , FeCl2F4        ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , octahedral
+    561, A00561.dat  , FeF5           ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , square pyramidal
+    562, A00562.dat  , FeF5           ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , square pyramidal
+    563, A00563.dat  , FeClF5         ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , octahedral
+    564, A00564.dat  , FeClF5         ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , octahedral
+    565, A00565.dat  , FeF6           ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , octahedral
+    566, A00566.dat  , FeF6           ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , octahedral
+    567, A00567.dat  , FeO            ,  +0.00, Fe   ,            2,         1, TPSSH    , TZVP     , linear
+    568, A00568.dat  , FeO            ,  +0.00, Fe   ,            2,         3, TPSSH    , TZVP     , linear
+    569, A00569.dat  , FeO            ,  +0.00, Fe   ,            2,         5, TPSSH    , TZVP     , linear
+    570, A00570.dat  , FeOCl          ,  +0.00, Fe   ,            3,         2, TPSSH    , TZVP     , linear
+    571, A00571.dat  , FeOCl          ,  +0.00, Fe   ,            3,         4, TPSSH    , TZVP     , linear
+    572, A00572.dat  , FeOCl          ,  +0.00, Fe   ,            3,         6, TPSSH    , TZVP     , linear
+    573, A00573.dat  , FeOCl          ,  +0.00, Fe   ,            3,         2, TPSSH    , TZVP     , angular
+    574, A00574.dat  , FeOCl          ,  +0.00, Fe   ,            3,         4, TPSSH    , TZVP     , angular
+    575, A00575.dat  , FeOCl          ,  +0.00, Fe   ,            3,         6, TPSSH    , TZVP     , angular
+    576, A00576.dat  , FeOCl2         ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , T-shaped
+    577, A00577.dat  , FeOCl2         ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , trigonal planar
+    578, A00578.dat  , FeOCl2         ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , T-shaped
+    579, A00579.dat  , FeCl2O         ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , T-shaped
+    580, A00580.dat  , FeCl2O         ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , trigonal planar
+    581, A00581.dat  , FeCl2O         ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , T-shaped
+    582, A00582.dat  , FeOCl3         ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    583, A00583.dat  , FeOCl3         ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , tetrahedal
+    584, A00584.dat  , FeOCl3         ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , seesaw
+    585, A00585.dat  , FeCl3O         ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    586, A00586.dat  , FeCl3O         ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , tetrahedal
+    587, A00587.dat  , FeOCl4         ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , tetrahedal
+    588, A00588.dat  , FeOCl4         ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , square pyramidal
+    589, A00589.dat  , FeCl4O         ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    590, A00590.dat  , FeCl4O         ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , square pyramidal
+    591, A00591.dat  , FeOF           ,  +0.00, Fe   ,            3,         2, TPSSH    , TZVP     , linear
+    592, A00592.dat  , FeOF           ,  +0.00, Fe   ,            3,         4, TPSSH    , TZVP     , linear
+    593, A00593.dat  , FeOF           ,  +0.00, Fe   ,            3,         6, TPSSH    , TZVP     , linear
+    594, A00594.dat  , FeOF           ,  +0.00, Fe   ,            3,         2, TPSSH    , TZVP     , angular
+    595, A00595.dat  , FeOF           ,  +0.00, Fe   ,            3,         6, TPSSH    , TZVP     , angular
+    596, A00596.dat  , FeOF           ,  +0.00, Fe   ,            3,         4, TPSSH    , TZVP     , angular
+    597, A00597.dat  , FeOFCl         ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , T-shaped
+    598, A00598.dat  , FeOFCl         ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , T-shaped
+    599, A00599.dat  , FeOFCl         ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , T-shaped
+    600, A00600.dat  , FeFOCl         ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , T-shaped
+    601, A00601.dat  , FeFOCl         ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , T-shaped
+    602, A00602.dat  , FeFOCl         ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , T-shaped
+    603, A00603.dat  , FeOFCl2        ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    604, A00604.dat  , FeOFCl2        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , tetrahedal
+    605, A00605.dat  , FeOFCl2        ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , seesaw
+    606, A00606.dat  , FeOFCl2        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , seesaw
+    607, A00607.dat  , FeCl2OF        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , seesaw
+    608, A00608.dat  , FeCl2OF        ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    609, A00609.dat  , FeCl2OF        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , tetrahedal
+    610, A00610.dat  , FeCl2FO        ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    611, A00611.dat  , FeCl2FO        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , tetrahedal
+    612, A00612.dat  , FeFCl2O        ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    613, A00613.dat  , FeFCl2O        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , tetrahedal
+    614, A00614.dat  , FeOCl3F        ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    615, A00615.dat  , FeOCl3F        ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , square pyramidal
+    616, A00616.dat  , FeCl3FO        ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , tetrahedal
+    617, A00617.dat  , FeCl3FO        ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , square pyramidal
+    618, A00618.dat  , FeCl3OF        ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    619, A00619.dat  , FeCl3OF        ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    620, A00620.dat  , FeCl3OF        ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , seesaw
+    621, A00621.dat  , FeOF2          ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , T-shaped
+    622, A00622.dat  , FeOF2          ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , T-shaped
+    623, A00623.dat  , FeOF2          ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , trigonal planar
+    624, A00624.dat  , FeF2O          ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , T-shaped
+    625, A00625.dat  , FeF2O          ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , trigonal planar
+    626, A00626.dat  , FeF2O          ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , T-shaped
+    627, A00627.dat  , FeOF2Cl        ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    628, A00628.dat  , FeOF2Cl        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , tetrahedal
+    629, A00629.dat  , FeF2OCl        ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , seesaw
+    630, A00630.dat  , FeF2OCl        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , seesaw
+    631, A00631.dat  , FeOF2Cl        ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , seesaw
+    632, A00632.dat  , FeOF2Cl        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , seesaw
+    633, A00633.dat  , FeClOF2        ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    634, A00634.dat  , FeClOF2        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , tetrahedal
+    635, A00635.dat  , FeClF2O        ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    636, A00636.dat  , FeClF2O        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , tetrahedal
+    637, A00637.dat  , FeF2ClO        ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    638, A00638.dat  , FeF2ClO        ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , tetrahedal
+    639, A00639.dat  , FeCl2OF2       ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    640, A00640.dat  , FeCl2OF2       ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , square pyramidal
+    641, A00641.dat  , FeCl2F2O       ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , tetrahedal
+    642, A00642.dat  , FeCl2F2O       ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , square pyramidal
+    643, A00643.dat  , FeCl2F2O       ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    644, A00644.dat  , FeCl2F2O       ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    645, A00645.dat  , FeOCl2F2       ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , tetrahedal
+    646, A00646.dat  , FeOCl2F2       ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , square pyramidal
+    647, A00647.dat  , FeF2Cl2O       ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    648, A00648.dat  , FeF2Cl2O       ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    649, A00649.dat  , FeOF3          ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    650, A00650.dat  , FeOF3          ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , tetrahedal
+    651, A00651.dat  , FeOF3          ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , seesaw
+    652, A00652.dat  , FeOF3          ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , seesaw
+    653, A00653.dat  , FeF3O          ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , tetrahedal
+    654, A00654.dat  , FeF3O          ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , tetrahedal
+    655, A00655.dat  , FeClF3O        ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    656, A00656.dat  , FeClF3O        ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    657, A00657.dat  , FeClOF3        ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    658, A00658.dat  , FeClOF3        ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , square pyramidal
+    659, A00659.dat  , FeF4O          ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    660, A00660.dat  , FeF4O          ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , square pyramidal
+    661, A00661.dat  , FeOF4          ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , square pyramidal
+    662, A00662.dat  , FeOF4          ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    663, A00663.dat  , FeO2           ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , linear
+    664, A00664.dat  , FeO2           ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , linear
+    665, A00665.dat  , FeO2           ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , linear
+    666, A00666.dat  , FeO2           ,  +0.00, Fe   ,            4,         1, TPSSH    , TZVP     , angular
+    667, A00667.dat  , FeO2           ,  +0.00, Fe   ,            4,         3, TPSSH    , TZVP     , angular
+    668, A00668.dat  , FeO2           ,  +0.00, Fe   ,            4,         5, TPSSH    , TZVP     , angular
+    669, A00669.dat  , FeO2Cl         ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , T-shaped
+    670, A00670.dat  , FeO2Cl         ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , T-shaped
+    671, A00671.dat  , FeClO2         ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , T-shaped
+    672, A00672.dat  , FeClO2         ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , T-shaped
+    673, A00673.dat  , FeO2Cl2        ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , tetrahedal
+    674, A00674.dat  , FeO2Cl2        ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , tetrahedal
+    675, A00675.dat  , FeO2Cl2        ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , seesaw
+    676, A00676.dat  , FeO2Cl2        ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , seesaw
+    677, A00677.dat  , FeO2F          ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , trigonal planar
+    678, A00678.dat  , FeO2F          ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , T-shaped
+    679, A00679.dat  , FeFO2          ,  +0.00, Fe   ,            5,         2, TPSSH    , TZVP     , trigonal planar
+    680, A00680.dat  , FeFO2          ,  +0.00, Fe   ,            5,         4, TPSSH    , TZVP     , T-shaped
+    681, A00681.dat  , FeO2FCl        ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , tetrahedal
+    682, A00682.dat  , FeO2FCl        ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , tetrahedal
+    683, A00683.dat  , FeO2FCl        ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , seesaw
+    684, A00684.dat  , FeO2FCl        ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , seesaw
+    685, A00685.dat  , FeFO2Cl        ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , seesaw
+    686, A00686.dat  , FeFO2Cl        ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , seesaw
+    687, A00687.dat  , FeO2F2         ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , tetrahedal
+    688, A00688.dat  , FeO2F2         ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , tetrahedal
+    689, A00689.dat  , FeO2F2         ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , seesaw
+    690, A00690.dat  , FeO2F2         ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , square planar
+    691, A00691.dat  , FeO3           ,  +0.00, Fe   ,            6,         1, TPSSH    , TZVP     , trigonal planar
+    692, A00692.dat  , FeO3           ,  +0.00, Fe   ,            6,         3, TPSSH    , TZVP     , T-shaped
+    693, A00693.dat  , MnCl2          ,  +0.00, Mn   ,            2,         2, TPSSH    , TZVP     , linear
+    694, A00694.dat  , MnCl2          ,  +0.00, Mn   ,            2,         4, TPSSH    , TZVP     , linear
+    695, A00695.dat  , MnCl2          ,  +0.00, Mn   ,            2,         6, TPSSH    , TZVP     , linear
+    696, A00696.dat  , MnCl2          ,  +0.00, Mn   ,            2,         2, TPSSH    , TZVP     , angular
+    697, A00697.dat  , MnCl2          ,  +0.00, Mn   ,            2,         6, TPSSH    , TZVP     , angular
+    698, A00698.dat  , MnCl2          ,  +0.00, Mn   ,            2,         4, TPSSH    , TZVP     , angular
+    699, A00699.dat  , MnCl3          ,  +0.00, Mn   ,            3,         1, TPSSH    , TZVP     , T-shaped
+    700, A00700.dat  , MnCl3          ,  +0.00, Mn   ,            3,         3, TPSSH    , TZVP     , T-shaped
+    701, A00701.dat  , MnCl3          ,  +0.00, Mn   ,            3,         5, TPSSH    , TZVP     , T-shaped
+    702, A00702.dat  , MnCl3          ,  +0.00, Mn   ,            3,         1, TPSSH    , TZVP     , trigonal pyramidal
+    703, A00703.dat  , MnCl3          ,  +0.00, Mn   ,            3,         3, TPSSH    , TZVP     , trigonal pyramidal
+    704, A00704.dat  , MnCl3          ,  +0.00, Mn   ,            3,         1, TPSSH    , TZVP     , trigonal planar
+    705, A00705.dat  , MnCl4          ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , tetrahedal
+    706, A00706.dat  , MnCl4          ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , tetrahedal
+    707, A00707.dat  , MnCl5          ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , square pyramidal
+    708, A00708.dat  , MnCl5          ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    709, A00709.dat  , MnCl6          ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , octahedral
+    710, A00710.dat  , MnFCl          ,  +0.00, Mn   ,            2,         2, TPSSH    , TZVP     , linear
+    711, A00711.dat  , MnFCl          ,  +0.00, Mn   ,            2,         4, TPSSH    , TZVP     , linear
+    712, A00712.dat  , MnFCl          ,  +0.00, Mn   ,            2,         6, TPSSH    , TZVP     , linear
+    713, A00713.dat  , MnFCl          ,  +0.00, Mn   ,            2,         2, TPSSH    , TZVP     , angular
+    714, A00714.dat  , MnFCl          ,  +0.00, Mn   ,            2,         4, TPSSH    , TZVP     , angular
+    715, A00715.dat  , MnFCl          ,  +0.00, Mn   ,            2,         6, TPSSH    , TZVP     , angular
+    716, A00716.dat  , MnFCl2         ,  +0.00, Mn   ,            3,         3, TPSSH    , TZVP     , T-shaped
+    717, A00717.dat  , MnFCl2         ,  +0.00, Mn   ,            3,         1, TPSSH    , TZVP     , trigonal pyramidal
+    718, A00718.dat  , MnFCl2         ,  +0.00, Mn   ,            3,         3, TPSSH    , TZVP     , trigonal pyramidal
+    719, A00719.dat  , MnFCl2         ,  +0.00, Mn   ,            3,         5, TPSSH    , TZVP     , T-shaped
+    720, A00720.dat  , MnCl2F         ,  +0.00, Mn   ,            3,         1, TPSSH    , TZVP     , trigonal planar
+    721, A00721.dat  , MnCl2F         ,  +0.00, Mn   ,            3,         3, TPSSH    , TZVP     , T-shaped
+    722, A00722.dat  , MnCl2F         ,  +0.00, Mn   ,            3,         5, TPSSH    , TZVP     , T-shaped
+    723, A00723.dat  , MnFCl2         ,  +0.00, Mn   ,            3,         1, TPSSH    , TZVP     , T-shaped
+    724, A00724.dat  , MnFCl3         ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , tetrahedal
+    725, A00725.dat  , MnFCl3         ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , tetrahedal
+    726, A00726.dat  , MnFCl3         ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , seesaw
+    727, A00727.dat  , MnFCl3         ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , seesaw
+    728, A00728.dat  , MnCl3F         ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , tetrahedal
+    729, A00729.dat  , MnCl3F         ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , seesaw
+    730, A00730.dat  , MnCl3F         ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , tetrahedal
+    731, A00731.dat  , MnFCl4         ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+    732, A00732.dat  , MnFCl4         ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    733, A00733.dat  , MnCl4F         ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , square pyramidal
+    734, A00734.dat  , MnCl4F         ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    735, A00735.dat  , MnFCl4         ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , square pyramidal
+    736, A00736.dat  , MnCl4F         ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , square pyramidal
+    737, A00737.dat  , MnCl5F         ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , octahedral
+    738, A00738.dat  , MnF2           ,  +0.00, Mn   ,            2,         2, TPSSH    , TZVP     , linear
+    739, A00739.dat  , MnF2           ,  +0.00, Mn   ,            2,         4, TPSSH    , TZVP     , linear
+    740, A00740.dat  , MnF2           ,  +0.00, Mn   ,            2,         6, TPSSH    , TZVP     , linear
+    741, A00741.dat  , MnF2           ,  +0.00, Mn   ,            2,         2, TPSSH    , TZVP     , angular
+    742, A00742.dat  , MnF2Cl         ,  +0.00, Mn   ,            3,         1, TPSSH    , TZVP     , T-shaped
+    743, A00743.dat  , MnF2Cl         ,  +0.00, Mn   ,            3,         3, TPSSH    , TZVP     , T-shaped
+    744, A00744.dat  , MnF2Cl         ,  +0.00, Mn   ,            3,         5, TPSSH    , TZVP     , T-shaped
+    745, A00745.dat  , MnF2Cl         ,  +0.00, Mn   ,            3,         1, TPSSH    , TZVP     , trigonal pyramidal
+    746, A00746.dat  , MnF2Cl         ,  +0.00, Mn   ,            3,         3, TPSSH    , TZVP     , trigonal pyramidal
+    747, A00747.dat  , MnF2Cl         ,  +0.00, Mn   ,            3,         1, TPSSH    , TZVP     , trigonal planar
+    748, A00748.dat  , MnClF2         ,  +0.00, Mn   ,            3,         1, TPSSH    , TZVP     , trigonal planar
+    749, A00749.dat  , MnClF2         ,  +0.00, Mn   ,            3,         3, TPSSH    , TZVP     , T-shaped
+    750, A00750.dat  , MnClF2         ,  +0.00, Mn   ,            3,         5, TPSSH    , TZVP     , T-shaped
+    751, A00751.dat  , MnF2Cl2        ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , tetrahedal
+    752, A00752.dat  , MnF2Cl2        ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , tetrahedal
+    753, A00753.dat  , MnF2Cl2        ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , seesaw
+    754, A00754.dat  , MnF2Cl2        ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , seesaw
+    755, A00755.dat  , MnCl2F2        ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , square planar
+    756, A00756.dat  , MnCl2F2        ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , square planar
+    757, A00757.dat  , MnCl2F2        ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , tetrahedal
+    758, A00758.dat  , MnCl2F2        ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , tetrahedal
+    759, A00759.dat  , MnF2Cl3        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+    760, A00760.dat  , MnF2Cl3        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    761, A00761.dat  , MnCl3F2        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , square pyramidal
+    762, A00762.dat  , MnCl3F2        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    763, A00763.dat  , MnCl3F2        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+    764, A00764.dat  , MnF2Cl3        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , square pyramidal
+    765, A00765.dat  , MnF2Cl3        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , square pyramidal
+    766, A00766.dat  , MnCl3F2        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , square pyramidal
+    767, A00767.dat  , MnCl4F2        ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , octahedral
+    768, A00768.dat  , MnF3           ,  +0.00, Mn   ,            3,         5, TPSSH    , TZVP     , T-shaped
+    769, A00769.dat  , MnF3           ,  +0.00, Mn   ,            3,         1, TPSSH    , TZVP     , trigonal planar
+    770, A00770.dat  , MnF3           ,  +0.00, Mn   ,            3,         3, TPSSH    , TZVP     , trigonal pyramidal
+    771, A00771.dat  , MnF3           ,  +0.00, Mn   ,            3,         3, TPSSH    , TZVP     , T-shaped
+    772, A00772.dat  , MnF3Cl         ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , tetrahedal
+    773, A00773.dat  , MnF3Cl         ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , tetrahedal
+    774, A00774.dat  , MnF3Cl         ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , seesaw
+    775, A00775.dat  , MnF3Cl         ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , square planar
+    776, A00776.dat  , MnClF3         ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , tetrahedal
+    777, A00777.dat  , MnClF3         ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , tetrahedal
+    778, A00778.dat  , MnF3Cl         ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , seesaw
+    779, A00779.dat  , MnCl2F3        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+    780, A00780.dat  , MnCl2F3        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    781, A00781.dat  , MnCl2F3        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , square pyramidal
+    782, A00782.dat  , MnF3Cl2        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+    783, A00783.dat  , MnF3Cl2        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    784, A00784.dat  , MnF3Cl2        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , square pyramidal
+    785, A00785.dat  , MnF3Cl2        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , square pyramidal
+    786, A00786.dat  , MnCl3F3        ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , octahedral
+    787, A00787.dat  , MnF4           ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , tetrahedal
+    788, A00788.dat  , MnF4           ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , tetrahedal
+    789, A00789.dat  , MnF4           ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , square planar
+    790, A00790.dat  , MnF4           ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , square planar
+    791, A00791.dat  , MnF4           ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , seesaw
+    792, A00792.dat  , MnF4Cl         ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+    793, A00793.dat  , MnF4Cl         ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    794, A00794.dat  , MnClF4         ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+    795, A00795.dat  , MnClF4         ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    796, A00796.dat  , MnClF4         ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , square pyramidal
+    797, A00797.dat  , MnF4Cl         ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , square pyramidal
+    798, A00798.dat  , MnCl2F4        ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , octahedral
+    799, A00799.dat  , MnF5           ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+    800, A00800.dat  , MnF5           ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , trigonal bipyramidal
+    801, A00801.dat  , MnF5           ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , square pyramidal
+    802, A00802.dat  , MnClF5         ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , octahedral
+    803, A00803.dat  , MnF6           ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , octahedral
+    804, A00804.dat  , MnO            ,  +0.00, Mn   ,            2,         2, TPSSH    , TZVP     , linear
+    805, A00805.dat  , MnO            ,  +0.00, Mn   ,            2,         4, TPSSH    , TZVP     , linear
+    806, A00806.dat  , MnO            ,  +0.00, Mn   ,            2,         6, TPSSH    , TZVP     , linear
+    807, A00807.dat  , MnOCl          ,  +0.00, Mn   ,            3,         1, TPSSH    , TZVP     , linear
+    808, A00808.dat  , MnOCl          ,  +0.00, Mn   ,            3,         3, TPSSH    , TZVP     , linear
+    809, A00809.dat  , MnOCl          ,  +0.00, Mn   ,            3,         5, TPSSH    , TZVP     , linear
+    810, A00810.dat  , MnOCl          ,  +0.00, Mn   ,            3,         1, TPSSH    , TZVP     , angular
+    811, A00811.dat  , MnOCl          ,  +0.00, Mn   ,            3,         3, TPSSH    , TZVP     , angular
+    812, A00812.dat  , MnOCl          ,  +0.00, Mn   ,            3,         5, TPSSH    , TZVP     , angular
+    813, A00813.dat  , MnOCl2         ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , trigonal planar
+    814, A00814.dat  , MnOCl2         ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , T-shaped
+    815, A00815.dat  , MnCl2O         ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , trigonal planar
+    816, A00816.dat  , MnCl2O         ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , T-shaped
+    817, A00817.dat  , MnOCl2         ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , trigonal planar
+    818, A00818.dat  , MnOCl3         ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    819, A00819.dat  , MnOCl3         ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    820, A00820.dat  , MnCl3O         ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    821, A00821.dat  , MnCl3O         ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    822, A00822.dat  , MnOCl4         ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , square pyramidal
+    823, A00823.dat  , MnCl4O         ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , square pyramidal
+    824, A00824.dat  , MnOF           ,  +0.00, Mn   ,            3,         1, TPSSH    , TZVP     , linear
+    825, A00825.dat  , MnOF           ,  +0.00, Mn   ,            3,         3, TPSSH    , TZVP     , linear
+    826, A00826.dat  , MnOF           ,  +0.00, Mn   ,            3,         5, TPSSH    , TZVP     , linear
+    827, A00827.dat  , MnOF           ,  +0.00, Mn   ,            3,         1, TPSSH    , TZVP     , angular
+    828, A00828.dat  , MnOF           ,  +0.00, Mn   ,            3,         3, TPSSH    , TZVP     , angular
+    829, A00829.dat  , MnOF           ,  +0.00, Mn   ,            3,         5, TPSSH    , TZVP     , angular
+    830, A00830.dat  , MnOFCl         ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , T-shaped
+    831, A00831.dat  , MnOFCl         ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , T-shaped
+    832, A00832.dat  , MnOFCl         ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , trigonal pyramidal
+    833, A00833.dat  , MnFOCl         ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , T-shaped
+    834, A00834.dat  , MnFOCl         ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , T-shaped
+    835, A00835.dat  , MnOFCl2        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    836, A00836.dat  , MnOFCl2        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    837, A00837.dat  , MnOFCl2        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , seesaw
+    838, A00838.dat  , MnOFCl2        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , seesaw
+    839, A00839.dat  , MnCl2OF        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , seesaw
+    840, A00840.dat  , MnCl2OF        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    841, A00841.dat  , MnCl2OF        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    842, A00842.dat  , MnCl2FO        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    843, A00843.dat  , MnCl2FO        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    844, A00844.dat  , MnFCl2O        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    845, A00845.dat  , MnFCl2O        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    846, A00846.dat  , MnOCl3F        ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , square pyramidal
+    847, A00847.dat  , MnCl3FO        ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , tetrahedal
+    848, A00848.dat  , MnCl3OF        ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , square pyramidal
+    849, A00849.dat  , MnOF2          ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , trigonal planar
+    850, A00850.dat  , MnOF2          ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , T-shaped
+    851, A00851.dat  , MnOF2          ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , trigonal planar
+    852, A00852.dat  , MnF2O          ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , trigonal planar
+    853, A00853.dat  , MnF2O          ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , T-shaped
+    854, A00854.dat  , MnOF2Cl        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    855, A00855.dat  , MnOF2Cl        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    856, A00856.dat  , MnF2OCl        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , seesaw
+    857, A00857.dat  , MnF2OCl        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , seesaw
+    858, A00858.dat  , MnOF2Cl        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , seesaw
+    859, A00859.dat  , MnOF2Cl        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , square planar
+    860, A00860.dat  , MnClOF2        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    861, A00861.dat  , MnClOF2        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    862, A00862.dat  , MnClF2O        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    863, A00863.dat  , MnClF2O        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    864, A00864.dat  , MnF2ClO        ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    865, A00865.dat  , MnF2ClO        ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    866, A00866.dat  , MnCl2OF2       ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , square pyramidal
+    867, A00867.dat  , MnCl2F2O       ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , tetrahedal
+    868, A00868.dat  , MnCl2F2O       ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    869, A00869.dat  , MnOCl2F2       ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , square pyramidal
+    870, A00870.dat  , MnF2Cl2O       ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , square pyramidal
+    871, A00871.dat  , MnOF3          ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    872, A00872.dat  , MnOF3          ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    873, A00873.dat  , MnOF3          ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , seesaw
+    874, A00874.dat  , MnOF3          ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , seesaw
+    875, A00875.dat  , MnF3O          ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , tetrahedal
+    876, A00876.dat  , MnF3O          ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , tetrahedal
+    877, A00877.dat  , MnClF3O        ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , tetrahedal
+    878, A00878.dat  , MnClOF3        ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    879, A00879.dat  , MnF4O          ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , square pyramidal
+    880, A00880.dat  , MnOF4          ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , trigonal bipyramidal
+    881, A00881.dat  , MnO2           ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , linear
+    882, A00882.dat  , MnO2           ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , linear
+    883, A00883.dat  , MnO2           ,  +0.00, Mn   ,            4,         2, TPSSH    , TZVP     , angular
+    884, A00884.dat  , MnO2           ,  +0.00, Mn   ,            4,         4, TPSSH    , TZVP     , angular
+    885, A00885.dat  , MnO2Cl         ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , trigonal planar
+    886, A00886.dat  , MnO2Cl         ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , T-shaped
+    887, A00887.dat  , MnClO2         ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , trigonal planar
+    888, A00888.dat  , MnClO2         ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , trigonal planar
+    889, A00889.dat  , MnO2Cl2        ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , tetrahedal
+    890, A00890.dat  , MnO2Cl2        ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , seesaw
+    891, A00891.dat  , MnO2F          ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , T-shaped
+    892, A00892.dat  , MnO2F          ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , trigonal planar
+    893, A00893.dat  , MnO2F          ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , trigonal pyramidal
+    894, A00894.dat  , MnO2F          ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , T-shaped
+    895, A00895.dat  , MnFO2          ,  +0.00, Mn   ,            5,         1, TPSSH    , TZVP     , T-shaped
+    896, A00896.dat  , MnFO2          ,  +0.00, Mn   ,            5,         3, TPSSH    , TZVP     , trigonal planar
+    897, A00897.dat  , MnO2FCl        ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , tetrahedal
+    898, A00898.dat  , MnO2FCl        ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , trigonal planar
+    899, A00899.dat  , MnO2F2         ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , tetrahedal
+    900, A00900.dat  , MnO2F2         ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , square planar
+    901, A00901.dat  , MnO3           ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , trigonal planar
+    902, A00902.dat  , MnO3           ,  +0.00, Mn   ,            6,         2, TPSSH    , TZVP     , T-shaped
+    903, A00903.dat  , NiCl2          ,  +0.00, Ni   ,            2,         1, TPSSH    , TZVP     , linear
+    904, A00904.dat  , NiCl2          ,  +0.00, Ni   ,            2,         3, TPSSH    , TZVP     , linear
+    905, A00905.dat  , NiCl2          ,  +0.00, Ni   ,            2,         1, TPSSH    , TZVP     , angular
+    906, A00906.dat  , NiCl3          ,  +0.00, Ni   ,            3,         2, TPSSH    , TZVP     , trigonal pyramidal
+    907, A00907.dat  , NiCl3          ,  +0.00, Ni   ,            3,         4, TPSSH    , TZVP     , T-shaped
+    908, A00908.dat  , NiCl3          ,  +0.00, Ni   ,            3,         2, TPSSH    , TZVP     , T-shaped
+    909, A00909.dat  , NiCl3          ,  +0.00, Ni   ,            3,         4, TPSSH    , TZVP     , trigonal planar
+    910, A00910.dat  , NiFCl          ,  +0.00, Ni   ,            2,         1, TPSSH    , TZVP     , linear
+    911, A00911.dat  , NiFCl          ,  +0.00, Ni   ,            2,         3, TPSSH    , TZVP     , linear
+    912, A00912.dat  , NiFCl          ,  +0.00, Ni   ,            2,         1, TPSSH    , TZVP     , angular
+    913, A00913.dat  , NiFCl          ,  +0.00, Ni   ,            2,         3, TPSSH    , TZVP     , angular
+    914, A00914.dat  , NiFCl2         ,  +0.00, Ni   ,            3,         2, TPSSH    , TZVP     , T-shaped
+    915, A00915.dat  , NiFCl2         ,  +0.00, Ni   ,            3,         4, TPSSH    , TZVP     , T-shaped
+    916, A00916.dat  , NiFCl2         ,  +0.00, Ni   ,            3,         2, TPSSH    , TZVP     , trigonal pyramidal
+    917, A00917.dat  , NiCl2F         ,  +0.00, Ni   ,            3,         2, TPSSH    , TZVP     , T-shaped
+    918, A00918.dat  , NiCl2F         ,  +0.00, Ni   ,            3,         4, TPSSH    , TZVP     , T-shaped
+    919, A00919.dat  , NiFCl2         ,  +0.00, Ni   ,            3,         4, TPSSH    , TZVP     , trigonal planar
+    920, A00920.dat  , NiF2           ,  +0.00, Ni   ,            2,         1, TPSSH    , TZVP     , linear
+    921, A00921.dat  , NiF2           ,  +0.00, Ni   ,            2,         3, TPSSH    , TZVP     , linear
+    922, A00922.dat  , NiF2           ,  +0.00, Ni   ,            2,         1, TPSSH    , TZVP     , angular
+    923, A00923.dat  , NiF2           ,  +0.00, Ni   ,            2,         3, TPSSH    , TZVP     , angular
+    924, A00924.dat  , NiF2Cl         ,  +0.00, Ni   ,            3,         2, TPSSH    , TZVP     , T-shaped
+    925, A00925.dat  , NiF2Cl         ,  +0.00, Ni   ,            3,         4, TPSSH    , TZVP     , T-shaped
+    926, A00926.dat  , NiF2Cl         ,  +0.00, Ni   ,            3,         2, TPSSH    , TZVP     , trigonal pyramidal
+    927, A00927.dat  , NiClF2         ,  +0.00, Ni   ,            3,         2, TPSSH    , TZVP     , T-shaped
+    928, A00928.dat  , NiClF2         ,  +0.00, Ni   ,            3,         4, TPSSH    , TZVP     , T-shaped
+    929, A00929.dat  , NiF3           ,  +0.00, Ni   ,            3,         2, TPSSH    , TZVP     , T-shaped
+    930, A00930.dat  , NiF3           ,  +0.00, Ni   ,            3,         2, TPSSH    , TZVP     , trigonal pyramidal
+    931, A00931.dat  , NiF3           ,  +0.00, Ni   ,            3,         4, TPSSH    , TZVP     , T-shaped
+    932, A00932.dat  , NiO            ,  +0.00, Ni   ,            2,         1, TPSSH    , TZVP     , linear
+    933, A00933.dat  , NiO            ,  +0.00, Ni   ,            2,         3, TPSSH    , TZVP     , linear
+    934, A00934.dat  , NiOCl          ,  +0.00, Ni   ,            3,         2, TPSSH    , TZVP     , linear
+    935, A00935.dat  , NiOCl          ,  +0.00, Ni   ,            3,         4, TPSSH    , TZVP     , linear
+    936, A00936.dat  , NiOCl          ,  +0.00, Ni   ,            3,         2, TPSSH    , TZVP     , angular
+    937, A00937.dat  , NiOCl          ,  +0.00, Ni   ,            3,         4, TPSSH    , TZVP     , angular
+    938, A00938.dat  , NiOF           ,  +0.00, Ni   ,            3,         2, TPSSH    , TZVP     , linear
+    939, A00939.dat  , NiOF           ,  +0.00, Ni   ,            3,         4, TPSSH    , TZVP     , linear
+    940, A00940.dat  , NiOF           ,  +0.00, Ni   ,            3,         4, TPSSH    , TZVP     , angular
+    941, A00941.dat  , ScCl2          ,  +0.00, Sc   ,            2,         2, TPSSH    , TZVP     , linear
+    942, A00942.dat  , ScCl2          ,  +0.00, Sc   ,            2,         2, TPSSH    , TZVP     , angular
+    943, A00943.dat  , ScCl3          ,  +0.00, Sc   ,            3,         1, TPSSH    , TZVP     , T-shaped
+    944, A00944.dat  , ScCl3          ,  +0.00, Sc   ,            3,         1, TPSSH    , TZVP     , trigonal planar
+    945, A00945.dat  , ScFCl          ,  +0.00, Sc   ,            2,         2, TPSSH    , TZVP     , angular
+    946, A00946.dat  , ScFCl2         ,  +0.00, Sc   ,            3,         1, TPSSH    , TZVP     , trigonal pyramidal
+    947, A00947.dat  , ScCl2F         ,  +0.00, Sc   ,            3,         1, TPSSH    , TZVP     , T-shaped
+    948, A00948.dat  , ScFCl2         ,  +0.00, Sc   ,            3,         1, TPSSH    , TZVP     , trigonal planar
+    949, A00949.dat  , ScF2           ,  +0.00, Sc   ,            2,         2, TPSSH    , TZVP     , linear
+    950, A00950.dat  , ScF2           ,  +0.00, Sc   ,            2,         2, TPSSH    , TZVP     , angular
+    951, A00951.dat  , ScF2Cl         ,  +0.00, Sc   ,            3,         1, TPSSH    , TZVP     , trigonal planar
+    952, A00952.dat  , ScF2Cl         ,  +0.00, Sc   ,            3,         1, TPSSH    , TZVP     , T-shaped
+    953, A00953.dat  , ScClF2         ,  +0.00, Sc   ,            3,         1, TPSSH    , TZVP     , T-shaped
+    954, A00954.dat  , ScF3           ,  +0.00, Sc   ,            3,         1, TPSSH    , TZVP     , trigonal planar
+    955, A00955.dat  , ScO            ,  +0.00, Sc   ,            2,         2, TPSSH    , TZVP     , linear
+    956, A00956.dat  , ScOCl          ,  +0.00, Sc   ,            3,         1, TPSSH    , TZVP     , linear
+    957, A00957.dat  , ScOCl          ,  +0.00, Sc   ,            3,         1, TPSSH    , TZVP     , angular
+    958, A00958.dat  , ScOF           ,  +0.00, Sc   ,            3,         1, TPSSH    , TZVP     , linear
+    959, A00959.dat  , ScOF           ,  +0.00, Sc   ,            3,         1, TPSSH    , TZVP     , angular
+    960, A00960.dat  , TiCl2          ,  +0.00, Ti   ,            2,         1, TPSSH    , TZVP     , linear
+    961, A00961.dat  , TiCl2          ,  +0.00, Ti   ,            2,         3, TPSSH    , TZVP     , linear
+    962, A00962.dat  , TiCl2          ,  +0.00, Ti   ,            2,         1, TPSSH    , TZVP     , angular
+    963, A00963.dat  , TiCl2          ,  +0.00, Ti   ,            2,         3, TPSSH    , TZVP     , angular
+    964, A00964.dat  , TiCl3          ,  +0.00, Ti   ,            3,         2, TPSSH    , TZVP     , trigonal planar
+    965, A00965.dat  , TiCl4          ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    966, A00966.dat  , TiCl4          ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , square planar
+    967, A00967.dat  , TiFCl          ,  +0.00, Ti   ,            2,         1, TPSSH    , TZVP     , linear
+    968, A00968.dat  , TiFCl          ,  +0.00, Ti   ,            2,         3, TPSSH    , TZVP     , linear
+    969, A00969.dat  , TiFCl          ,  +0.00, Ti   ,            2,         1, TPSSH    , TZVP     , angular
+    970, A00970.dat  , TiFCl          ,  +0.00, Ti   ,            2,         3, TPSSH    , TZVP     , angular
+    971, A00971.dat  , TiFCl2         ,  +0.00, Ti   ,            3,         2, TPSSH    , TZVP     , trigonal planar
+    972, A00972.dat  , TiCl2F         ,  +0.00, Ti   ,            3,         2, TPSSH    , TZVP     , trigonal planar
+    973, A00973.dat  , TiFCl3         ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    974, A00974.dat  , TiFCl3         ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , seesaw
+    975, A00975.dat  , TiCl3F         ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    976, A00976.dat  , TiF2           ,  +0.00, Ti   ,            2,         1, TPSSH    , TZVP     , linear
+    977, A00977.dat  , TiF2           ,  +0.00, Ti   ,            2,         3, TPSSH    , TZVP     , linear
+    978, A00978.dat  , TiF2           ,  +0.00, Ti   ,            2,         1, TPSSH    , TZVP     , angular
+    979, A00979.dat  , TiF2           ,  +0.00, Ti   ,            2,         3, TPSSH    , TZVP     , angular
+    980, A00980.dat  , TiF2Cl         ,  +0.00, Ti   ,            3,         2, TPSSH    , TZVP     , trigonal planar
+    981, A00981.dat  , TiClF2         ,  +0.00, Ti   ,            3,         2, TPSSH    , TZVP     , trigonal planar
+    982, A00982.dat  , TiF2Cl2        ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    983, A00983.dat  , TiF2Cl2        ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , square planar
+    984, A00984.dat  , TiCl2F2        ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , square planar
+    985, A00985.dat  , TiCl2F2        ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    986, A00986.dat  , TiF3           ,  +0.00, Ti   ,            3,         2, TPSSH    , TZVP     , trigonal planar
+    987, A00987.dat  , TiF3Cl         ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    988, A00988.dat  , TiF3Cl         ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , square planar
+    989, A00989.dat  , TiClF3         ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    990, A00990.dat  , TiF4           ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , tetrahedal
+    991, A00991.dat  , TiF4           ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , square planar
+    992, A00992.dat  , TiO            ,  +0.00, Ti   ,            2,         1, TPSSH    , TZVP     , linear
+    993, A00993.dat  , TiO            ,  +0.00, Ti   ,            2,         3, TPSSH    , TZVP     , linear
+    994, A00994.dat  , TiOCl          ,  +0.00, Ti   ,            3,         2, TPSSH    , TZVP     , linear
+    995, A00995.dat  , TiOCl          ,  +0.00, Ti   ,            3,         2, TPSSH    , TZVP     , angular
+    996, A00996.dat  , TiOCl2         ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , trigonal pyramidal
+    997, A00997.dat  , TiCl2O         ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , T-shaped
+    998, A00998.dat  , TiOCl2         ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , T-shaped
+    999, A00999.dat  , TiOF           ,  +0.00, Ti   ,            3,         2, TPSSH    , TZVP     , linear
+   1000, A01000.dat  , TiOF           ,  +0.00, Ti   ,            3,         2, TPSSH    , TZVP     , angular
+   1001, A01001.dat  , TiOFCl         ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , T-shaped
+   1002, A01002.dat  , TiFOCl         ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , T-shaped
+   1003, A01003.dat  , TiOF2          ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , T-shaped
+   1004, A01004.dat  , TiOF2          ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , trigonal pyramidal
+   1005, A01005.dat  , TiF2O          ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , T-shaped
+   1006, A01006.dat  , TiO2           ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , linear
+   1007, A01007.dat  , TiO2           ,  +0.00, Ti   ,            4,         1, TPSSH    , TZVP     , angular
+   1008, A01008.dat  , VCl2           ,  +0.00, V    ,            2,         2, TPSSH    , TZVP     , linear
+   1009, A01009.dat  , VCl2           ,  +0.00, V    ,            2,         4, TPSSH    , TZVP     , linear
+   1010, A01010.dat  , VCl2           ,  +0.00, V    ,            2,         2, TPSSH    , TZVP     , angular
+   1011, A01011.dat  , VCl2           ,  +0.00, V    ,            2,         4, TPSSH    , TZVP     , angular
+   1012, A01012.dat  , VCl3           ,  +0.00, V    ,            3,         1, TPSSH    , TZVP     , trigonal planar
+   1013, A01013.dat  , VCl3           ,  +0.00, V    ,            3,         3, TPSSH    , TZVP     , trigonal planar
+   1014, A01014.dat  , VCl3           ,  +0.00, V    ,            3,         3, TPSSH    , TZVP     , T-shaped
+   1015, A01015.dat  , VCl4           ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , tetrahedal
+   1016, A01016.dat  , VCl4           ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , square planar
+   1017, A01017.dat  , VCl5           ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+   1018, A01018.dat  , VCl5           ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , square pyramidal
+   1019, A01019.dat  , VFCl           ,  +0.00, V    ,            2,         2, TPSSH    , TZVP     , linear
+   1020, A01020.dat  , VFCl           ,  +0.00, V    ,            2,         4, TPSSH    , TZVP     , linear
+   1021, A01021.dat  , VFCl           ,  +0.00, V    ,            2,         2, TPSSH    , TZVP     , angular
+   1022, A01022.dat  , VFCl           ,  +0.00, V    ,            2,         4, TPSSH    , TZVP     , angular
+   1023, A01023.dat  , VFCl2          ,  +0.00, V    ,            3,         1, TPSSH    , TZVP     , T-shaped
+   1024, A01024.dat  , VFCl2          ,  +0.00, V    ,            3,         3, TPSSH    , TZVP     , T-shaped
+   1025, A01025.dat  , VCl2F          ,  +0.00, V    ,            3,         1, TPSSH    , TZVP     , trigonal planar
+   1026, A01026.dat  , VCl2F          ,  +0.00, V    ,            3,         3, TPSSH    , TZVP     , T-shaped
+   1027, A01027.dat  , VFCl3          ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , tetrahedal
+   1028, A01028.dat  , VFCl3          ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , seesaw
+   1029, A01029.dat  , VCl3F          ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , tetrahedal
+   1030, A01030.dat  , VFCl4          ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+   1031, A01031.dat  , VCl4F          ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+   1032, A01032.dat  , VFCl4          ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , square pyramidal
+   1033, A01033.dat  , VCl4F          ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , square pyramidal
+   1034, A01034.dat  , VF2            ,  +0.00, V    ,            2,         2, TPSSH    , TZVP     , linear
+   1035, A01035.dat  , VF2            ,  +0.00, V    ,            2,         4, TPSSH    , TZVP     , linear
+   1036, A01036.dat  , VF2            ,  +0.00, V    ,            2,         2, TPSSH    , TZVP     , angular
+   1037, A01037.dat  , VF2            ,  +0.00, V    ,            2,         4, TPSSH    , TZVP     , angular
+   1038, A01038.dat  , VF2Cl          ,  +0.00, V    ,            3,         1, TPSSH    , TZVP     , T-shaped
+   1039, A01039.dat  , VF2Cl          ,  +0.00, V    ,            3,         3, TPSSH    , TZVP     , T-shaped
+   1040, A01040.dat  , VClF2          ,  +0.00, V    ,            3,         1, TPSSH    , TZVP     , trigonal planar
+   1041, A01041.dat  , VClF2          ,  +0.00, V    ,            3,         3, TPSSH    , TZVP     , T-shaped
+   1042, A01042.dat  , VF2Cl2         ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , tetrahedal
+   1043, A01043.dat  , VF2Cl2         ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , seesaw
+   1044, A01044.dat  , VCl2F2         ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , square planar
+   1045, A01045.dat  , VCl2F2         ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , tetrahedal
+   1046, A01046.dat  , VF2Cl3         ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+   1047, A01047.dat  , VCl3F2         ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+   1048, A01048.dat  , VCl3F2         ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , square pyramidal
+   1049, A01049.dat  , VF3            ,  +0.00, V    ,            3,         1, TPSSH    , TZVP     , trigonal planar
+   1050, A01050.dat  , VF3            ,  +0.00, V    ,            3,         3, TPSSH    , TZVP     , T-shaped
+   1051, A01051.dat  , VF3Cl          ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , tetrahedal
+   1052, A01052.dat  , VF3Cl          ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , square planar
+   1053, A01053.dat  , VClF3          ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , tetrahedal
+   1054, A01054.dat  , VCl2F3         ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+   1055, A01055.dat  , VF3Cl2         ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+   1056, A01056.dat  , VCl2F3         ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , square pyramidal
+   1057, A01057.dat  , VF3Cl2         ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , square pyramidal
+   1058, A01058.dat  , VF4            ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , tetrahedal
+   1059, A01059.dat  , VF4            ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , square planar
+   1060, A01060.dat  , VF4Cl          ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+   1061, A01061.dat  , VClF4          ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+   1062, A01062.dat  , VClF4          ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , square pyramidal
+   1063, A01063.dat  , VF5            ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , trigonal bipyramidal
+   1064, A01064.dat  , VF5            ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , square pyramidal
+   1065, A01065.dat  , VO             ,  +0.00, V    ,            2,         2, TPSSH    , TZVP     , linear
+   1066, A01066.dat  , VO             ,  +0.00, V    ,            2,         4, TPSSH    , TZVP     , linear
+   1067, A01067.dat  , VOCl           ,  +0.00, V    ,            3,         1, TPSSH    , TZVP     , linear
+   1068, A01068.dat  , VOCl           ,  +0.00, V    ,            3,         3, TPSSH    , TZVP     , linear
+   1069, A01069.dat  , VOCl           ,  +0.00, V    ,            3,         1, TPSSH    , TZVP     , angular
+   1070, A01070.dat  , VOCl           ,  +0.00, V    ,            3,         3, TPSSH    , TZVP     , angular
+   1071, A01071.dat  , VOCl2          ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , trigonal pyramidal
+   1072, A01072.dat  , VCl2O          ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , T-shaped
+   1073, A01073.dat  , VOCl2          ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , T-shaped
+   1074, A01074.dat  , VOCl3          ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , tetrahedal
+   1075, A01075.dat  , VOCl3          ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , seesaw
+   1076, A01076.dat  , VCl3O          ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , tetrahedal
+   1077, A01077.dat  , VOF            ,  +0.00, V    ,            3,         1, TPSSH    , TZVP     , linear
+   1078, A01078.dat  , VOF            ,  +0.00, V    ,            3,         3, TPSSH    , TZVP     , linear
+   1079, A01079.dat  , VOF            ,  +0.00, V    ,            3,         1, TPSSH    , TZVP     , angular
+   1080, A01080.dat  , VOF            ,  +0.00, V    ,            3,         3, TPSSH    , TZVP     , angular
+   1081, A01081.dat  , VOFCl          ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , T-shaped
+   1082, A01082.dat  , VFOCl          ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , T-shaped
+   1083, A01083.dat  , VOFCl2         ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , tetrahedal
+   1084, A01084.dat  , VOFCl2         ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , seesaw
+   1085, A01085.dat  , VCl2OF         ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , tetrahedal
+   1086, A01086.dat  , VCl2FO         ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , tetrahedal
+   1087, A01087.dat  , VFCl2O         ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , tetrahedal
+   1088, A01088.dat  , VOF2           ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , trigonal pyramidal
+   1089, A01089.dat  , VOF2           ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , T-shaped
+   1090, A01090.dat  , VF2O           ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , T-shaped
+   1091, A01091.dat  , VOF2Cl         ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , tetrahedal
+   1092, A01092.dat  , VF2OCl         ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , seesaw
+   1093, A01093.dat  , VOF2Cl         ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , seesaw
+   1094, A01094.dat  , VClOF2         ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , tetrahedal
+   1095, A01095.dat  , VClF2O         ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , tetrahedal
+   1096, A01096.dat  , VF2ClO         ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , tetrahedal
+   1097, A01097.dat  , VOF3           ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , tetrahedal
+   1098, A01098.dat  , VF3O           ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , tetrahedal
+   1099, A01099.dat  , VO2            ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , linear
+   1100, A01100.dat  , VO2            ,  +0.00, V    ,            4,         2, TPSSH    , TZVP     , angular
+   1101, A01101.dat  , VO2Cl          ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , T-shaped
+   1102, A01102.dat  , VO2Cl          ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , trigonal pyramidal
+   1103, A01103.dat  , VClO2          ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , T-shaped
+   1104, A01104.dat  , VO2F           ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , T-shaped
+   1105, A01105.dat  , VO2F           ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , trigonal pyramidal
+   1106, A01106.dat  , VFO2           ,  +0.00, V    ,            5,         1, TPSSH    , TZVP     , T-shaped
+   1107, A01107.dat  , ZnCl2          ,  +0.00, Zn   ,            2,         1, TPSSH    , TZVP     , linear
+   1108, A01108.dat  , ZnFCl          ,  +0.00, Zn   ,            2,         1, TPSSH    , TZVP     , linear
+   1109, A01109.dat  , ZnF2           ,  +0.00, Zn   ,            2,         1, TPSSH    , TZVP     , linear
+   1110, A01110.dat  , ZnO            ,  +0.00, Zn   ,            2,         1, TPSSH    , TZVP     , linear

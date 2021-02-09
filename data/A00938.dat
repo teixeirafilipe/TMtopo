@@ -1,0 +1,251 @@
+--- NEW ENTRY ---
+F001::Formula:: 0 :: Ni O F
+F002::Number of Atoms:: 0 :: 3
+F003::Metal:: 0 :: Ni
+F004::Metal Oxidation State:: 0 :: 3
+F005::Formal Occupation of d orbitals:: 0 :: 7
+F006::Spin Multiplicity:: 0 :: 2
+F007::Coordination Number:: 0 :: 2
+F008::Compute Method:: 0 :: TPSSH
+F009::Basis Set/Force Field:: 0 :: TZVP
+F010::Equilibrium Geometry Name:: 0 :: linear
+F011::Equilibrium Geometry:: 3
+   1   Ni  +0.000031  -0.000079  +0.026352
+   2    O  -0.000015  +0.000039  +1.671191
+   3    F  -0.000015  +0.000039  -1.697543
+F012::Total Charge ::0 ::  0.00
+F013::E(HOMO) ::0 ::      -3.00870000e-01
+F014::E(LUMO) ::0 ::      -2.00962000e-01
+F015::HOMO-LUMO Gap (eV) ::0 ::             2.718597
+F016::Electronic Contrib. to Dipole Moment ::1 
+    8.000000e-05    -2.400000e-04    -1.179090e+00 
+F017::Nuclear Contrib. to Dipole Moment ::1 
+   -2.000000e-05     4.000000e-05     1.387240e+00 
+F018::Total Dipole Moment ::1 
+    7.000000e-05    -2.000000e-04     2.081500e-01 
+F019::Dipole Moment Magnitude (Debye)::0 ::         5.290700e-01
+F020::Molecular Weight ::0 ::    93.686719
+F030::Electronic Contrib. to Quadrupole Tensor ::1 
+ -1.656789e+01  -1.574309e+01  -1.967656e+02   8.600000e-02  -2.600000e-04   5.700000e-04 
+F031::Nuclear Contrib. to Quadrupole Tensor ::1 
+  0.000000e+00   0.000000e+00   1.724070e+02  -0.000000e+00   2.400000e-04  -6.100000e-04 
+F032::Quadrupole Tensor ::1 
+ -1.656789e+01  -1.574309e+01  -2.435858e+01   8.600000e-02  -2.000000e-05  -5.000000e-05 
+F033::Diagonalized Quadrupole Tensor ::1 
+ -2.435858e+01  -1.657676e+01  -1.573422e+01 
+F034::Isotropic Quadrupole ::0::        -1.888985e+01 
+F050::IR Spectrum:: 3
+   1  741.7   96.75
+   2  573.4    8.06
+   3  178.8   33.20
+F051::Thermochemistry - Electronic Energy:: 0:: -1683.44438759
+F052::Thermochemistry - Internal Energy (U):: 13
+    0.00       -1683.44098424
+   50.00       -1683.44050445
+  100.00       -1683.43996608
+  150.00       -1683.43936688
+  200.00       -1683.43871379
+  250.00       -1683.43800800
+  273.15       -1683.43766510
+  298.15       -1683.43728471
+  300.00       -1683.43725617
+  350.00       -1683.43646705
+  400.00       -1683.43564865
+  450.00       -1683.43480747
+  500.00       -1683.43394848
+F053::Thermochemistry - Enthalpy (H):: 13
+    0.00       -1683.44098424
+   50.00       -1683.44034610
+  100.00       -1683.43964939
+  150.00       -1683.43889185
+  200.00       -1683.43808041
+  250.00       -1683.43721628
+  273.15       -1683.43680007
+  298.15       -1683.43634050
+  300.00       -1683.43630611
+  350.00       -1683.43535864
+  400.00       -1683.43438190
+  450.00       -1683.43338237
+  500.00       -1683.43236504
+F054::Thermochemistry - Gibbs Energy (G):: 13
+    0.00       -1683.44098415
+   50.00       -1683.44278397
+  100.00       -1683.44548780
+  150.00       -1683.44856545
+  200.00       -1683.45190544
+  250.00       -1683.45545444
+  273.15       -1683.45715903
+  298.15       -1683.45903951
+  300.00       -1683.45918023
+  350.00       -1683.46306016
+  400.00       -1683.46707687
+  450.00       -1683.47121646
+  500.00       -1683.47546748
+F100::AIM Atomic Charges - Q(A):: 3
+    1  +1.228
+    2  -0.575
+    3  -0.653
+F101::AIM Atomic Hamilt. Kinetic Energy  - K(A):: 3
+    1    +1.5057947626e+03
+    2    +7.5106545651e+01
+    3    +9.9739726998e+01
+F102::AIM Approximation to Virial-Based Total Energy of Atom - Ks(A):: 3
+    1    -1.5083065035e+03
+    2    -7.5231827124e+01
+    3    -9.9906097850e+01
+F103::AIM Attraction between Atom's Nucleus and E. Density - Vne(A,A):: 3
+    1    +1.5057947626e+03
+    2    +7.5106545651e+01
+    3    +9.9739726998e+01
+F104::AIM Half of Repulsion Energy Between Nucleus of Atom A and Other Nuclei - Vnn(A,Mol)/2:: 3
+    1    +7.4710324375e+01
+    2    +4.1687679592e+01
+    3    +4.4332755585e+01
+F105::Half of Attraction Energy Between Nucleus of Atom A and Electron Density Distribution of Molecule - Vne(A,Mol)/2 :: 3
+    1    -1.8740751634e+03
+    2    -1.3093264621e+02
+    3    -1.6415540778e+02
+F106::Half of Attraction Energy Between Electron Density Distribution of Atom A and Nuclei of Molecule - Ven(A,Mol)/2:: 3
+    1    -1.8653878887e+03
+    2    -1.3501562725e+02
+    3    -1.6875970181e+02
+F107::AIM Vne(A,Mol)/2 + Ven(A,Mol)/2 = Vneen(A):: 3
+    1    -7.4789261042e+03
+    2    -5.3189654692e+02
+    3    -6.6583021918e+02
+F108::AIM Half of Attraction Energy Between Nucleus of Atom A and Electron Density Distribution of Other Atoms - Vne(A,B)/2 :: 3
+    1    -7.9674939810e+01
+    2    -4.0316409019e+01
+    3    -4.2794127747e+01
+F109::AIM Half of Attraction Energy Between Electron Density Distribution of Atom A and Nuclei of Other Atoms - Ven(A,B)/2:: 3
+    1    -7.9674939810e+01
+    2    -4.0316409019e+01
+    3    -4.2794127747e+01
+F110::Vne(A,B)/2 + Ven(A,B)/2 =  Vneen(A,B)/2:: 3
+    1    -1.5066260491e+02
+    2    -8.4715799070e+01
+    3    -9.0192549525e+01
+F150::BCP Coordinates :: 2
+    1 Ni01  O02    +6.761070e-06    -2.076937e-05    +8.425089e-01
+    2 Ni01  F03    +9.192783e-06    -7.582707e-06    -8.256119e-01
+F151::Inter-nuclear distances:: 2
+    1 Ni01  O02    +1.644847e+00
+    2 Ni01  F03    +1.723905e+00
+F152::Bond path length (BPL):: 2
+    1 Ni01  O02    +1.644846e+00
+    2 Ni01  F03    +1.723904e+00
+F153::Electron Density at BCP:: 2
+    1 Ni01  O02    +2.027933e-01
+    2 Ni01  F03    +1.439042e-01
+F154::Laplacian of the Electron Density at BCP:: 2
+    1 Ni01  O02    +1.169236e+00
+    2 Ni01  F03    +9.535253e-01
+F155::Bond Ellipticity:: 2
+    1 Ni01  O02    +1.172052e-01
+    2 Ni01  F03    +1.463194e-01
+F156::Vbcp:: 2
+    1 Ni01  O02    -4.709399e-01
+    2 Ni01  F03    -3.207421e-01
+F157::Gbcp:: 2
+    1 Ni01  O02    +3.816244e-01
+    2 Ni01  F03    +2.795617e-01
+F158::Kbcp:: 2
+    1 Ni01  O02    +8.931551e-02
+    2 Ni01  F03    +4.118039e-02
+F159::Hbcp:: 2
+    1 Ni01  O02    -8.931551e-02
+    2 Ni01  F03    -4.118039e-02
+F161::Vnuc at BCP:: 2
+    1 Ni01  O02    +2.513825e+01
+    2 Ni01  F03    +2.454925e+01
+F162::Ven at BCP:: 2
+    1 Ni01  O02    -5.097869e+00
+    2 Ni01  F03    -3.532739e+00
+F163::Vrep at BCP:: 2
+    1 Ni01  O02    +4.626929e+00
+    2 Ni01  F03    +3.211997e+00
+F164::Delocalization Index (gamma):: 2
+    1 Ni01  O02    +1.674012e+00
+    2 Ni01  F03    +8.114981e-01
+F200::Laplacian Minima Location:: 18
+    1   Ni01    +0.0000    -0.0001    +0.0264
+    2   Ni01    +0.0210    +0.2024    -0.1785
+    3   Ni01    -0.0209    -0.2025    -0.1784
+    4   Ni01    -0.0761    +0.0079    +0.0283
+    5   Ni01    +0.0052    +0.0498    +0.0841
+    6   Ni01    -0.0051    -0.0500    +0.0842
+    7   Ni01    +0.0762    -0.0080    +0.0283
+    8   Ni01    -0.0054    -0.0525    -0.0291
+    9   Ni01    -0.2898    +0.0323    +0.0265
+   10   Ni01    +0.2898    -0.0324    +0.0266
+   11   Ni01    +0.0211    +0.2037    +0.2302
+   12   Ni01    -0.0210    -0.2038    +0.2302
+   13    O02    -0.0000    +0.0000    +1.6712
+   14    O02    +0.0000    -0.0000    +1.3263
+   15    O02    -0.0000    +0.0001    +2.0055
+   16    F03    -0.0000    +0.0000    -1.6976
+   17    F03    +0.0467    +0.2669    -1.8177
+   18    F03    -0.0467    -0.2668    -1.8178
+F201::Laplacian Minima Rho:: 18
+    1   Ni01     1.453385e+04
+    2   Ni01     5.472338e+00
+    3   Ni01     5.472267e+00
+    4   Ni01     1.378609e+02
+    5   Ni01     1.380201e+02
+    6   Ni01     1.380201e+02
+    7   Ni01     1.378609e+02
+    8   Ni01     1.377233e+02
+    9   Ni01     5.387128e+00
+   10   Ni01     5.387111e+00
+   11   Ni01     5.426703e+00
+   12   Ni01     5.426734e+00
+   13    O02     3.027233e+02
+   14    O02     8.805650e-01
+   15    O02     9.415627e-01
+   16    F03     4.355509e+02
+   17    F03     1.474951e+00
+   18    F03     1.474965e+00
+F202::Laplacian Minima DelSqRho:: 18
+    1   Ni01    -2.743178e+09
+    2   Ni01    -7.670015e+01
+    3   Ni01    -7.669604e+01
+    4   Ni01    -1.027360e+04
+    5   Ni01    -1.032892e+04
+    6   Ni01    -1.032891e+04
+    7   Ni01    -1.027360e+04
+    8   Ni01    -1.025493e+04
+    9   Ni01    -6.477445e+01
+   10   Ni01    -6.477382e+01
+   11   Ni01    -7.576166e+01
+   12   Ni01    -7.576465e+01
+   13    O02    -4.525397e+06
+   14    O02    -4.534826e+00
+   15    O02    -5.314309e+00
+   16    F03    -8.393337e+06
+   17    F03    -8.761651e+00
+   18    F03    -8.761928e+00
+F203::Laplacian Minima Distance to Parent Nucleus:: 18
+    1   Ni01   0.0000
+    2   Ni01   0.2887
+    3   Ni01   0.2887
+    4   Ni01   0.0766
+    5   Ni01   0.0765
+    6   Ni01   0.0765
+    7   Ni01   0.0766
+    8   Ni01   0.0766
+    9   Ni01   0.2916
+   10   Ni01   0.2916
+   11   Ni01   0.2890
+   12   Ni01   0.2890
+   13    O02   0.0000
+   14    O02   0.3449
+   15    O02   0.3343
+   16    F03   0.0000
+   17    F03   0.2964
+   18    F03   0.2964
+F250::Radius of the iVS sphere :: 0 :: 0.2821321321321321
+F251::Number of iVSCCs :: 0 :: 6
+F252::Geometrical arrangement of iVSCCs :: 0 :: Octahedron_Regular
+F253::Gillespiean Index 1 (G1) :: 0 :: 0.00000
+F254::Gillespiean Index 2 (G2) :: 0 :: 0.00000
+--- END ENTRY ---
