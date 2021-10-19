@@ -1,0 +1,265 @@
+--- NEW ENTRY ---
+F001::Formula:: 0 :: Al F3
+F002::Number of Atoms:: 0 :: 4
+F003::Metal:: 0 :: Al
+F004::Metal Oxidation State:: 0 :: 3
+F005::Formal Occupation of d orbitals:: 0 :: 0
+F006::Spin Multiplicity:: 0 :: 1
+F007::Coordination Number:: 0 :: 3
+F008::Compute Method:: 0 :: TPSSH
+F009::Basis Set/Force Field:: 0 :: TZVP
+F010::Equilibrium Geometry Name:: 0 :: trigonal planar
+F011::Equilibrium Geometry:: 4
+   1   Al  +0.189513  -0.325537  +0.130782
+   2    F  -0.082165  +0.137461  +1.676747
+   3    F  +1.545731  +0.148497  -0.652554
+   4    F  -0.901324  -1.262497  -0.649439
+F012::Total Charge ::0 ::  0.00
+F013::E(HOMO) ::0 ::      -3.88083000e-01
+F014::E(LUMO) ::0 ::      -6.64720000e-02
+F015::HOMO-LUMO Gap (eV) ::0 ::             8.751357
+F016::Electronic Contrib. to Dipole Moment ::1 
+    5.740000e-03     1.400000e-04     1.671000e-02 
+F017::Nuclear Contrib. to Dipole Moment ::1 
+    5.900000e-04    -1.000000e-05     1.640000e-03 
+F018::Total Dipole Moment ::1 
+    6.320000e-03     1.400000e-04     1.835000e-02 
+F019::Dipole Moment Magnitude (Debye)::0 ::         4.933000e-02
+F020::Molecular Weight ::0 ::    83.976748
+F030::Electronic Contrib. to Quadrupole Tensor ::1 
+ -1.207837e+02  -6.031724e+01  -1.380080e+02  -5.211443e+01   2.136511e+01  -3.640513e+01 
+F031::Nuclear Contrib. to Quadrupole Tensor ::1 
+  9.973080e+01   4.232683e+01   1.160977e+02   4.946850e+01  -2.029004e+01   3.456572e+01 
+F032::Quadrupole Tensor ::1 
+ -2.105296e+01  -1.799040e+01  -2.191028e+01  -2.645930e+00   1.075070e+00  -1.839420e+00 
+F033::Diagonalized Quadrupole Tensor ::1 
+ -2.264677e+01  -2.257674e+01  -1.573014e+01 
+F034::Isotropic Quadrupole ::0::        -2.031788e+01 
+F035::Isotropic Polarizability ::0::         1.891132e+01 
+F036::Polarizability Tensor ::1 
+  1.917944e+01   1.799731e+01   1.955719e+01   1.003440e+00  -4.372400e-01   7.199000e-01 
+F037::Diagonalized Polarizability Tensor ::1 
+  1.713151e+01   1.974855e+01   1.985389e+01 
+F050::IR Spectrum:: 6
+   1  944.5  184.15
+   2  941.3  182.20
+   3  680.3    0.00
+   4  293.9  134.59
+   5  239.2   32.90
+   6  232.0   33.03
+F051::Thermochemistry - Electronic Energy:: 0:: -542.3267691
+F052::Thermochemistry - Internal Energy (U):: 13
+    0.00        -542.31917981
+   50.00        -542.31870206
+  100.00        -542.31813482
+  150.00        -542.31741398
+  200.00        -542.31657979
+  250.00        -542.31565576
+  273.15        -542.31520108
+  298.15        -542.31469273
+  300.00        -542.31465443
+  350.00        -542.31358685
+  400.00        -542.31246379
+  450.00        -542.31129499
+  500.00        -542.31008871
+F053::Thermochemistry - Enthalpy (H):: 13
+    0.00        -542.31917981
+   50.00        -542.31854372
+  100.00        -542.31781813
+  150.00        -542.31693895
+  200.00        -542.31594641
+  250.00        -542.31486404
+  273.15        -542.31433605
+  298.15        -542.31374852
+  300.00        -542.31370436
+  350.00        -542.31247844
+  400.00        -542.31119704
+  450.00        -542.30986988
+  500.00        -542.30850527
+F054::Thermochemistry - Gibbs Energy (G):: 13
+    0.00        -542.31917975
+   50.00        -542.32237470
+  100.00        -542.32647849
+  150.00        -542.33099319
+  200.00        -542.33582191
+  250.00        -542.34091011
+  273.15        -542.34334347
+  298.15        -542.34602194
+  300.00        -542.34622216
+  350.00        -542.35173256
+  400.00        -542.35742161
+  450.00        -542.36327323
+  500.00        -542.36927394
+F100::AIM Atomic Charges - Q(A):: 4
+    1  +2.561
+    2  -0.854
+    3  -0.854
+    4  -0.854
+F101::AIM Atomic Hamilt. Kinetic Energy  - K(A):: 4
+    1    +2.4126089449e+02
+    2    +9.9841696739e+01
+    3    +9.9842880899e+01
+    4    +9.9843014089e+01
+F102::AIM Approximation to Virial-Based Total Energy of Atom - Ks(A):: 4
+    1    -2.4194712491e+02
+    2    -1.0012568147e+02
+    3    -1.0012686900e+02
+    4    -1.0012700257e+02
+F103::AIM Attraction between Atom's Nucleus and E. Density - Vne(A,A):: 4
+    1    +2.4126089449e+02
+    2    +9.9841696739e+01
+    3    +9.9842880899e+01
+    4    +9.9843014089e+01
+F104::AIM Half of Repulsion Energy Between Nucleus of Atom A and Other Nuclei - Vnn(A,Mol)/2:: 4
+    1    +5.6756596070e+01
+    2    +3.4015333296e+01
+    3    +3.4047021767e+01
+    4    +3.4066674453e+01
+F105::Half of Attraction Energy Between Nucleus of Atom A and Electron Density Distribution of Molecule - Vne(A,Mol)/2 :: 4
+    1    -3.4569854208e+02
+    2    -1.5370592749e+02
+    3    -1.5374082827e+02
+    4    -1.5376168219e+02
+F106::Half of Attraction Energy Between Electron Density Distribution of Atom A and Nuclei of Molecule - Ven(A,Mol)/2:: 4
+    1    -3.2867548626e+02
+    2    -1.5937913741e+02
+    3    -1.5941481219e+02
+    4    -1.5943726394e+02
+F107::AIM Vne(A,Mol)/2 + Ven(A,Mol)/2 = Vneen(A):: 4
+    1    -1.3487480567e+03
+    2    -6.2617012980e+02
+    3    -6.2631128092e+02
+    4    -6.2639789226e+02
+F108::AIM Half of Attraction Energy Between Nucleus of Atom A and Electron Density Distribution of Other Atoms - Vne(A,B)/2 :: 4
+    1    -6.2522296930e+01
+    2    -3.1800016566e+01
+    3    -3.1833633250e+01
+    4    -3.1853616901e+01
+F109::AIM Half of Attraction Energy Between Electron Density Distribution of Atom A and Nuclei of Other Atoms - Ven(A,B)/2:: 4
+    1    -6.2522296930e+01
+    2    -3.1800016566e+01
+    3    -3.1833633250e+01
+    4    -3.1853616901e+01
+F110::Vne(A,B)/2 + Ven(A,B)/2 =  Vneen(A,B)/2:: 4
+    1    -1.0802153805e+02
+    2    -6.9273243060e+01
+    3    -6.9341250420e+01
+    4    -6.9382815550e+01
+F150::BCP Coordinates :: 3
+    1 Al01  F02    +7.066726e-02    -1.232819e-01    +8.063071e-01
+    2 Al01  F03    +7.824132e-01    -1.183098e-01    -2.111011e-01
+    3 Al01  F04    -2.870649e-01    -7.350098e-01    -2.102177e-01
+F151::Inter-nuclear distances:: 3
+    1 Al01  F02    +1.636524e+00
+    2 Al01  F03    +1.636361e+00
+    3 Al01  F04    +1.636029e+00
+F152::Bond path length (BPL):: 3
+    1 Al01  F02    +1.636524e+00
+    2 Al01  F03    +1.636361e+00
+    3 Al01  F04    +1.636030e+00
+F153::Electron Density at BCP:: 3
+    1 Al01  F02    +1.180711e-01
+    2 Al01  F03    +1.180925e-01
+    3 Al01  F04    +1.182156e-01
+F154::Laplacian of the Electron Density at BCP:: 3
+    1 Al01  F02    +9.697567e-01
+    2 Al01  F03    +9.695376e-01
+    3 Al01  F04    +9.717701e-01
+F155::Bond Ellipticity:: 3
+    1 Al01  F02    +2.373261e-02
+    2 Al01  F03    +2.415223e-02
+    3 Al01  F04    +2.427164e-02
+F156::Vbcp:: 3
+    1 Al01  F02    -2.678151e-01
+    2 Al01  F03    -2.678734e-01
+    3 Al01  F04    -2.683236e-01
+F157::Gbcp:: 3
+    1 Al01  F02    +2.551271e-01
+    2 Al01  F03    +2.551289e-01
+    3 Al01  F04    +2.556330e-01
+F158::Kbcp:: 3
+    1 Al01  F02    +1.268797e-02
+    2 Al01  F03    +1.274449e-02
+    3 Al01  F04    +1.269051e-02
+F159::Hbcp:: 3
+    1 Al01  F02    -1.268797e-02
+    2 Al01  F03    -1.274449e-02
+    3 Al01  F04    -1.269051e-02
+F161::Vnuc at BCP:: 3
+    1 Al01  F02    +1.934548e+01
+    2 Al01  F03    +1.935341e+01
+    3 Al01  F04    +1.936046e+01
+F162::Ven at BCP:: 3
+    1 Al01  F02    -2.284143e+00
+    2 Al01  F03    -2.285493e+00
+    3 Al01  F04    -2.288709e+00
+F163::Vrep at BCP:: 3
+    1 Al01  F02    +2.016328e+00
+    2 Al01  F03    +2.017619e+00
+    3 Al01  F04    +2.020385e+00
+F164::Delocalization Index (gamma):: 3
+    1 Al01  F02    +3.386120e-01
+    2 Al01  F03    +3.381399e-01
+    3 Al01  F04    +3.376234e-01
+F200::Laplacian Minima Location:: 13
+    1   Al01    +0.1895    -0.3255    +0.1308
+    2   Al01    +0.0311    -0.3807    +0.2211
+    3   Al01    +0.2205    -0.3793    -0.0493
+    4   Al01    +0.3162    -0.2158    +0.2214
+    5    F02    -0.0822    +0.1375    +1.6768
+    6    F02    -0.3314    +0.0520    +1.8124
+    7    F02    +0.1156    +0.3292    +1.7856
+    8    F03    +1.5457    +0.1485    -0.6526
+    9    F03    +1.7520    +0.3099    -0.5140
+   10    F03    +1.5557    +0.0817    -0.9410
+   11    F04    -0.9013    -1.2625    -0.6494
+   12    F04    -1.1212    -1.3730    -0.4846
+   13    F04    -0.8544    -1.3323    -0.9336
+F201::Laplacian Minima Rho:: 13
+    1   Al01     1.346975e+03
+    2   Al01     7.274137e+00
+    3   Al01     7.275835e+00
+    4   Al01     7.273357e+00
+    5    F02     4.354107e+02
+    6    F02     1.479541e+00
+    7    F02     1.481707e+00
+    8    F03     4.354125e+02
+    9    F03     1.479742e+00
+   10    F03     1.480603e+00
+   11    F04     4.354103e+02
+   12    F04     1.480652e+00
+   13    F04     1.479446e+00
+F202::Laplacian Minima DelSqRho:: 13
+    1   Al01    -3.849517e+07
+    2   Al01    -9.670717e+01
+    3   Al01    -9.677432e+01
+    4   Al01    -9.667586e+01
+    5    F02    -8.390466e+06
+    6    F02    -8.762536e+00
+    7    F02    -8.798632e+00
+    8    F03    -8.390499e+06
+    9    F03    -8.771804e+00
+   10    F03    -8.761028e+00
+   11    F04    -8.390458e+06
+   12    F04    -8.751821e+00
+   13    F04    -8.771632e+00
+F203::Laplacian Minima Distance to Parent Nucleus:: 13
+    1   Al01   0.0000
+    2   Al01   0.1905
+    3   Al01   0.1905
+    4   Al01   0.1905
+    5    F02   0.0000
+    6    F02   0.2963
+    7    F02   0.2962
+    8    F03   0.0000
+    9    F03   0.2963
+   10    F03   0.2962
+   11    F04   0.0000
+   12    F04   0.2963
+   13    F04   0.2963
+F250::Radius of the iVS sphere :: 0 :: 0.18083083083083082
+F251::Number of iVSCCs :: 0 :: 3
+F252::Geometrical arrangement of iVSCCs :: 0 :: Triangle_Equilateral
+F253::Gillespiean Index 1 (G1) :: 0 :: 1.00000
+F254::Gillespiean Index 2 (G2) :: 0 :: 1.00000
+--- END ENTRY ---
